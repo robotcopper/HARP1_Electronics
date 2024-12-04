@@ -1881,10 +1881,10 @@
     )
   )
 
-  (junction (at 252.73 82.55) (diameter 0) (color 0 0 0 0)
+  (junction (at 278.13 74.93) (diameter 0) (color 0 0 0 0)
     (uuid 016c574d-5670-4fdb-a301-8eb1b574d68f)
   )
-  (junction (at 209.55 243.84) (diameter 0) (color 0 0 0 0)
+  (junction (at 232.41 161.29) (diameter 0) (color 0 0 0 0)
     (uuid 0e43333b-f125-4111-aa15-9bf02ae299b1)
   )
   (junction (at 63.5 217.17) (diameter 0) (color 0 0 0 0)
@@ -1893,10 +1893,10 @@
   (junction (at 43.18 124.46) (diameter 0) (color 0 0 0 0)
     (uuid 10b3a044-9204-40fb-9a32-88b919735977)
   )
-  (junction (at 213.36 49.53) (diameter 0) (color 0 0 0 0)
+  (junction (at 240.03 53.34) (diameter 0) (color 0 0 0 0)
     (uuid 1272b46a-453b-4ab7-96ff-be0bea5bf745)
   )
-  (junction (at 264.16 243.84) (diameter 0) (color 0 0 0 0)
+  (junction (at 287.02 161.29) (diameter 0) (color 0 0 0 0)
     (uuid 12893ac3-d9bc-457a-aeb8-3793c3cd38b5)
   )
   (junction (at 35.56 124.46) (diameter 0) (color 0 0 0 0)
@@ -1908,13 +1908,13 @@
   (junction (at 69.85 124.46) (diameter 0) (color 0 0 0 0)
     (uuid 1beb9d05-7fde-49e8-8003-5dad3e71e841)
   )
-  (junction (at 241.3 232.41) (diameter 0) (color 0 0 0 0)
+  (junction (at 264.16 149.86) (diameter 0) (color 0 0 0 0)
     (uuid 1eeb0059-ffec-4269-af64-1b9a98dca373)
   )
-  (junction (at 213.36 86.36) (diameter 0) (color 0 0 0 0)
+  (junction (at 238.76 78.74) (diameter 0) (color 0 0 0 0)
     (uuid 22e0a004-2535-4032-aa16-dafe11c96682)
   )
-  (junction (at 264.16 233.68) (diameter 0) (color 0 0 0 0)
+  (junction (at 287.02 151.13) (diameter 0) (color 0 0 0 0)
     (uuid 24ca8fa2-994d-48d4-80a9-269e62198d4a)
   )
   (junction (at 105.41 105.41) (diameter 0) (color 0 0 0 0)
@@ -1923,91 +1923,91 @@
   (junction (at 40.64 102.87) (diameter 0) (color 0 0 0 0)
     (uuid 36cf1069-4849-4dfa-a5f9-235a70780a98)
   )
-  (junction (at 233.68 86.36) (diameter 0) (color 0 0 0 0)
+  (junction (at 259.08 78.74) (diameter 0) (color 0 0 0 0)
     (uuid 3b206d92-d562-471b-9409-f20abd6c2b2d)
   )
   (junction (at 69.85 110.49) (diameter 0) (color 0 0 0 0)
     (uuid 3c802e02-13c6-48d6-8b9d-cd3a19941afb)
   )
-  (junction (at 276.86 100.33) (diameter 0) (color 0 0 0 0)
+  (junction (at 302.26 92.71) (diameter 0) (color 0 0 0 0)
     (uuid 47242097-8138-4fd0-9e0c-eeda72a01b89)
   )
-  (junction (at 288.29 100.33) (diameter 0) (color 0 0 0 0)
+  (junction (at 313.69 92.71) (diameter 0) (color 0 0 0 0)
     (uuid 4d73e34d-1983-47ee-8e5c-f108f0073bad)
   )
-  (junction (at 241.3 247.65) (diameter 0) (color 0 0 0 0)
+  (junction (at 264.16 165.1) (diameter 0) (color 0 0 0 0)
     (uuid 4d99a93d-9532-444b-9713-1a13942f76b1)
   )
-  (junction (at 299.72 194.31) (diameter 0) (color 0 0 0 0)
+  (junction (at 322.58 115.57) (diameter 0) (color 0 0 0 0)
     (uuid 4f69964e-aa3f-4fb6-b2e6-f97be64b60ad)
   )
-  (junction (at 237.49 199.39) (diameter 0) (color 0 0 0 0)
+  (junction (at 260.35 120.65) (diameter 0) (color 0 0 0 0)
     (uuid 4f76ed71-cfe4-422c-8959-b41af8582cbe)
   )
   (junction (at 55.88 102.87) (diameter 0) (color 0 0 0 0)
     (uuid 4f8b22b4-2543-4bf0-be8c-ec875d1d922d)
   )
-  (junction (at 264.16 248.92) (diameter 0) (color 0 0 0 0)
+  (junction (at 287.02 166.37) (diameter 0) (color 0 0 0 0)
     (uuid 50845368-bf21-4234-8988-5ebc4bbc18cc)
   )
-  (junction (at 264.16 228.6) (diameter 0) (color 0 0 0 0)
+  (junction (at 287.02 146.05) (diameter 0) (color 0 0 0 0)
     (uuid 54fe768b-5108-4b27-9cc7-bd79bd2e2c77)
   )
   (junction (at 86.36 156.21) (diameter 0) (color 0 0 0 0)
     (uuid 5599354a-5462-4379-b788-39b460f9dd0d)
   )
-  (junction (at 288.29 95.25) (diameter 0) (color 0 0 0 0)
+  (junction (at 313.69 87.63) (diameter 0) (color 0 0 0 0)
     (uuid 5a5de696-43b9-4268-a383-97b8fd829803)
   )
-  (junction (at 232.41 232.41) (diameter 0) (color 0 0 0 0)
+  (junction (at 255.27 149.86) (diameter 0) (color 0 0 0 0)
     (uuid 5a9e277d-261d-4217-a81d-bb8b36042fc7)
   )
   (junction (at 43.18 134.62) (diameter 0) (color 0 0 0 0)
     (uuid 5c8d6282-6b4d-4425-adbe-bb350979d3b1)
   )
-  (junction (at 209.55 262.89) (diameter 0) (color 0 0 0 0)
+  (junction (at 232.41 180.34) (diameter 0) (color 0 0 0 0)
     (uuid 6b3c9d39-3cff-4cee-9bd9-956c780c6891)
   )
-  (junction (at 213.36 40.64) (diameter 0) (color 0 0 0 0)
+  (junction (at 240.03 44.45) (diameter 0) (color 0 0 0 0)
     (uuid 7e4f29bb-3596-49e4-b075-f51adac3577d)
   )
-  (junction (at 209.55 210.82) (diameter 0) (color 0 0 0 0)
+  (junction (at 232.41 132.08) (diameter 0) (color 0 0 0 0)
     (uuid 81a927c1-ddda-4868-ba44-18504c5e379a)
   )
   (junction (at 115.57 106.68) (diameter 0) (color 0 0 0 0)
     (uuid 865be7d6-bce8-43ae-88df-54323110bb8d)
   )
-  (junction (at 275.59 77.47) (diameter 0) (color 0 0 0 0)
+  (junction (at 300.99 69.85) (diameter 0) (color 0 0 0 0)
     (uuid 8859028b-2b36-45f4-af1d-d4a67d38e347)
   )
-  (junction (at 213.36 82.55) (diameter 0) (color 0 0 0 0)
+  (junction (at 238.76 74.93) (diameter 0) (color 0 0 0 0)
     (uuid 91fa20e7-1c50-4102-aae9-9710af9130c4)
   )
-  (junction (at 217.17 262.89) (diameter 0) (color 0 0 0 0)
+  (junction (at 240.03 180.34) (diameter 0) (color 0 0 0 0)
     (uuid 9f363a44-29a5-4f71-9dd4-ba0104f72d0b)
   )
-  (junction (at 245.11 82.55) (diameter 0) (color 0 0 0 0)
+  (junction (at 270.51 74.93) (diameter 0) (color 0 0 0 0)
     (uuid a428fad8-f846-409e-9fa3-d8ca0bea6bcd)
   )
-  (junction (at 213.36 52.07) (diameter 0) (color 0 0 0 0)
+  (junction (at 240.03 55.88) (diameter 0) (color 0 0 0 0)
     (uuid ab2ec4fa-d7d3-4b6d-aef8-ba603a238160)
   )
-  (junction (at 223.52 210.82) (diameter 0) (color 0 0 0 0)
+  (junction (at 246.38 132.08) (diameter 0) (color 0 0 0 0)
     (uuid b0fb9f67-3985-420b-8c98-71e811dc4f12)
   )
-  (junction (at 245.11 95.25) (diameter 0) (color 0 0 0 0)
+  (junction (at 270.51 87.63) (diameter 0) (color 0 0 0 0)
     (uuid b14db910-5c1d-4d16-93fb-970eb91c7abf)
   )
-  (junction (at 284.48 194.31) (diameter 0) (color 0 0 0 0)
+  (junction (at 307.34 115.57) (diameter 0) (color 0 0 0 0)
     (uuid b38a8f41-5368-4f33-9a86-c0bec99714d3)
   )
-  (junction (at 307.34 194.31) (diameter 0) (color 0 0 0 0)
+  (junction (at 330.2 115.57) (diameter 0) (color 0 0 0 0)
     (uuid c51f65c0-f146-419c-80a7-32d08c4efda4)
   )
-  (junction (at 275.59 83.82) (diameter 0) (color 0 0 0 0)
+  (junction (at 300.99 76.2) (diameter 0) (color 0 0 0 0)
     (uuid c8a5f612-97ce-47c2-ba2d-7337ff66f84c)
   )
-  (junction (at 217.17 243.84) (diameter 0) (color 0 0 0 0)
+  (junction (at 240.03 161.29) (diameter 0) (color 0 0 0 0)
     (uuid ce4f5bd0-d7e5-469c-b04d-67d11aba2158)
   )
   (junction (at 105.41 144.78) (diameter 0) (color 0 0 0 0)
@@ -2016,7 +2016,7 @@
   (junction (at 90.17 144.78) (diameter 0) (color 0 0 0 0)
     (uuid f05cb5ad-5f43-4590-9ecf-33138fa02e36)
   )
-  (junction (at 232.41 247.65) (diameter 0) (color 0 0 0 0)
+  (junction (at 255.27 165.1) (diameter 0) (color 0 0 0 0)
     (uuid f79061c8-eb4e-4295-8dbe-a424f3585665)
   )
   (junction (at 55.88 119.38) (diameter 0) (color 0 0 0 0)
@@ -2027,7 +2027,7 @@
     (stroke (width 0) (type default))
     (uuid 00172f5a-3681-4ae7-bb92-1de74b57d714)
   )
-  (wire (pts (xy 264.16 227.33) (xy 264.16 228.6))
+  (wire (pts (xy 287.02 144.78) (xy 287.02 146.05))
     (stroke (width 0) (type default))
     (uuid 02248a00-3891-475a-b720-e1d066c46125)
   )
@@ -2035,19 +2035,19 @@
     (stroke (width 0) (type default))
     (uuid 03787308-69cc-472d-999f-4c7ea94909b7)
   )
-  (wire (pts (xy 237.49 199.39) (xy 237.49 203.2))
+  (wire (pts (xy 260.35 120.65) (xy 260.35 124.46))
     (stroke (width 0) (type default))
     (uuid 04129059-f3f4-45d8-b773-c058cbd234db)
   )
-  (wire (pts (xy 264.16 228.6) (xy 266.7 228.6))
+  (wire (pts (xy 287.02 146.05) (xy 289.56 146.05))
     (stroke (width 0) (type default))
     (uuid 041abd0b-9443-4d2c-8f22-2deae013b404)
   )
-  (wire (pts (xy 232.41 204.47) (xy 232.41 208.28))
+  (wire (pts (xy 255.27 125.73) (xy 255.27 129.54))
     (stroke (width 0) (type default))
     (uuid 07611313-9a77-4188-b82a-194873670c12)
   )
-  (wire (pts (xy 299.72 190.5) (xy 299.72 194.31))
+  (wire (pts (xy 322.58 111.76) (xy 322.58 115.57))
     (stroke (width 0) (type default))
     (uuid 09cbacf4-b1e8-4576-ac16-f8d1dab0ec10)
   )
@@ -2059,7 +2059,7 @@
     (stroke (width 0) (type default))
     (uuid 0ec18b38-3921-4c43-963b-13d511b2714b)
   )
-  (wire (pts (xy 275.59 77.47) (xy 275.59 78.74))
+  (wire (pts (xy 300.99 69.85) (xy 300.99 71.12))
     (stroke (width 0) (type default))
     (uuid 1356e04d-c1a5-49ba-b498-5cad4318cb8d)
   )
@@ -2079,9 +2079,13 @@
     (stroke (width 0) (type default))
     (uuid 1fdcc4a6-a1db-4261-bd58-e19382576527)
   )
-  (wire (pts (xy 264.16 247.65) (xy 264.16 248.92))
+  (wire (pts (xy 287.02 165.1) (xy 287.02 166.37))
     (stroke (width 0) (type default))
     (uuid 21eaefb6-ea58-48cd-abd5-d76de6f1880c)
+  )
+  (wire (pts (xy 240.03 58.42) (xy 240.03 55.88))
+    (stroke (width 0) (type default))
+    (uuid 23aa7c19-21a0-4b66-9cf9-50ddb2e1cda6)
   )
   (wire (pts (xy 69.85 132.08) (xy 71.12 132.08))
     (stroke (width 0) (type default))
@@ -2095,7 +2099,7 @@
     (stroke (width 0) (type default))
     (uuid 28f0b6d3-19e6-4340-85bc-8578cc511a6a)
   )
-  (wire (pts (xy 232.41 208.28) (xy 237.49 208.28))
+  (wire (pts (xy 255.27 129.54) (xy 260.35 129.54))
     (stroke (width 0) (type default))
     (uuid 2e327931-894d-47de-a2b7-0c697b559cfc)
   )
@@ -2103,19 +2107,19 @@
     (stroke (width 0) (type default))
     (uuid 30504546-3993-4db0-bcf9-572d941e107d)
   )
-  (wire (pts (xy 266.7 243.84) (xy 266.7 247.65))
+  (wire (pts (xy 289.56 161.29) (xy 289.56 165.1))
     (stroke (width 0) (type default))
     (uuid 334bc70d-c883-4c5b-9adc-49942027d75f)
   )
-  (wire (pts (xy 237.49 199.39) (xy 280.67 199.39))
+  (wire (pts (xy 260.35 120.65) (xy 303.53 120.65))
     (stroke (width 0) (type default))
     (uuid 35a27abe-0358-40d5-ae13-e88a48e63acd)
   )
-  (wire (pts (xy 217.17 247.65) (xy 232.41 247.65))
+  (wire (pts (xy 240.03 165.1) (xy 255.27 165.1))
     (stroke (width 0) (type default))
     (uuid 37323d18-a3df-4ba7-af97-fc6c31070adb)
   )
-  (wire (pts (xy 215.9 49.53) (xy 215.9 52.07))
+  (wire (pts (xy 242.57 53.34) (xy 242.57 55.88))
     (stroke (width 0) (type default))
     (uuid 37c86472-a6ee-40de-a8d8-db56b7a9afbb)
   )
@@ -2127,19 +2131,19 @@
     (stroke (width 0) (type default))
     (uuid 3c767903-5f2c-4490-a68b-401cd9803c5f)
   )
-  (wire (pts (xy 284.48 194.31) (xy 233.68 194.31))
+  (wire (pts (xy 307.34 115.57) (xy 256.54 115.57))
     (stroke (width 0) (type default))
     (uuid 3cf83d3d-8f38-466d-a33d-e6f09f34f529)
   )
-  (wire (pts (xy 217.17 50.8) (xy 214.63 50.8))
+  (wire (pts (xy 243.84 54.61) (xy 241.3 54.61))
     (stroke (width 0) (type default))
     (uuid 3d0ab846-b024-4757-ab46-55e24df48f07)
   )
-  (wire (pts (xy 238.76 40.64) (xy 213.36 40.64))
+  (wire (pts (xy 265.43 44.45) (xy 240.03 44.45))
     (stroke (width 0) (type default))
     (uuid 3e93a4ba-643b-4955-a54b-7aca77c77caa)
   )
-  (wire (pts (xy 245.11 95.25) (xy 251.46 95.25))
+  (wire (pts (xy 270.51 87.63) (xy 276.86 87.63))
     (stroke (width 0) (type default))
     (uuid 3e96a442-34a4-457c-b126-5d914b0f5125)
   )
@@ -2147,23 +2151,23 @@
     (stroke (width 0) (type default))
     (uuid 3ed3385c-258c-4313-861f-5256fd91cd64)
   )
-  (wire (pts (xy 298.45 194.31) (xy 299.72 194.31))
+  (wire (pts (xy 321.31 115.57) (xy 322.58 115.57))
     (stroke (width 0) (type default))
     (uuid 3ee90fd9-4393-4d61-9f08-7b201ab48da9)
   )
-  (wire (pts (xy 280.67 212.09) (xy 280.67 217.17))
+  (wire (pts (xy 303.53 133.35) (xy 303.53 138.43))
     (stroke (width 0) (type default))
     (uuid 40c9ca17-827f-4c40-a37d-15249c270800)
   )
-  (wire (pts (xy 284.48 82.55) (xy 287.02 82.55))
+  (wire (pts (xy 309.88 74.93) (xy 312.42 74.93))
     (stroke (width 0) (type default))
     (uuid 42afb554-a82b-4417-b29b-9dc8c5522321)
   )
-  (wire (pts (xy 217.17 49.53) (xy 215.9 49.53))
+  (wire (pts (xy 243.84 53.34) (xy 242.57 53.34))
     (stroke (width 0) (type default))
     (uuid 4557d895-0337-4217-a9a0-7c98b801bdf0)
   )
-  (wire (pts (xy 226.06 204.47) (xy 232.41 204.47))
+  (wire (pts (xy 248.92 125.73) (xy 255.27 125.73))
     (stroke (width 0) (type default))
     (uuid 46e574b4-9036-497f-bbc3-7f873d0b7c51)
   )
@@ -2179,19 +2183,19 @@
     (stroke (width 0) (type default))
     (uuid 4c762c21-f4d0-48ef-beb7-21a6d6190f12)
   )
-  (wire (pts (xy 213.36 82.55) (xy 213.36 86.36))
+  (wire (pts (xy 238.76 74.93) (xy 238.76 78.74))
     (stroke (width 0) (type default))
     (uuid 4d858b3f-4a87-4e69-9b7c-8026fc56d8f8)
   )
-  (wire (pts (xy 280.67 204.47) (xy 280.67 199.39))
+  (wire (pts (xy 303.53 125.73) (xy 303.53 120.65))
     (stroke (width 0) (type default))
     (uuid 4e6abe76-fed6-4908-908f-38f53c8da95f)
   )
-  (wire (pts (xy 288.29 95.25) (xy 288.29 100.33))
+  (wire (pts (xy 313.69 87.63) (xy 313.69 92.71))
     (stroke (width 0) (type default))
     (uuid 50520e51-ce82-4178-8015-23a9749465bb)
   )
-  (wire (pts (xy 213.36 86.36) (xy 233.68 86.36))
+  (wire (pts (xy 238.76 78.74) (xy 259.08 78.74))
     (stroke (width 0) (type default))
     (uuid 52430a07-bd02-44d1-be4a-bcc8ebe311bd)
   )
@@ -2203,7 +2207,7 @@
     (stroke (width 0) (type default))
     (uuid 55bf1db8-2193-4a0e-8a0d-438be5ec78d7)
   )
-  (wire (pts (xy 260.35 190.5) (xy 237.49 190.5))
+  (wire (pts (xy 283.21 111.76) (xy 260.35 111.76))
     (stroke (width 0) (type default))
     (uuid 588c3a09-0a99-4bcb-8092-c86d98641722)
   )
@@ -2211,7 +2215,7 @@
     (stroke (width 0) (type default))
     (uuid 5fe1b269-86b8-43fa-a547-57efe9807f60)
   )
-  (wire (pts (xy 266.7 247.65) (xy 278.13 247.65))
+  (wire (pts (xy 289.56 165.1) (xy 300.99 165.1))
     (stroke (width 0) (type default))
     (uuid 61ff7f7a-8dab-41b8-a8f1-4379138ada5e)
   )
@@ -2219,7 +2223,7 @@
     (stroke (width 0) (type default))
     (uuid 64109a36-7da5-448c-8004-4a427c19dc85)
   )
-  (wire (pts (xy 264.16 232.41) (xy 264.16 233.68))
+  (wire (pts (xy 287.02 149.86) (xy 287.02 151.13))
     (stroke (width 0) (type default))
     (uuid 647bb678-b17f-4b27-819a-fe02d35d52ba)
   )
@@ -2227,11 +2231,11 @@
     (stroke (width 0) (type default))
     (uuid 6691d1b0-8dfc-441e-bb62-11fc250502a7)
   )
-  (wire (pts (xy 233.68 205.74) (xy 237.49 205.74))
+  (wire (pts (xy 256.54 127) (xy 260.35 127))
     (stroke (width 0) (type default))
     (uuid 675225c4-862d-4bd5-9218-33d40afa4c72)
   )
-  (wire (pts (xy 264.16 242.57) (xy 264.16 243.84))
+  (wire (pts (xy 287.02 160.02) (xy 287.02 161.29))
     (stroke (width 0) (type default))
     (uuid 6a63caef-86e4-4cba-85ee-af460053ae3e)
   )
@@ -2239,7 +2243,7 @@
     (stroke (width 0) (type default))
     (uuid 6c23879d-1063-4efd-b7d9-bf5bb908143a)
   )
-  (wire (pts (xy 266.7 228.6) (xy 266.7 232.41))
+  (wire (pts (xy 289.56 146.05) (xy 289.56 149.86))
     (stroke (width 0) (type default))
     (uuid 6ec6372e-4cb8-4408-9489-0acac8f29432)
   )
@@ -2255,47 +2259,47 @@
     (stroke (width 0) (type default))
     (uuid 74ad66dd-ec50-4fe8-8423-85d95fa1267d)
   )
-  (wire (pts (xy 195.58 82.55) (xy 198.12 82.55))
+  (wire (pts (xy 220.98 74.93) (xy 223.52 74.93))
     (stroke (width 0) (type default))
     (uuid 7798d4d6-cf9c-4c9b-9766-5f0e1f948e1d)
   )
-  (wire (pts (xy 241.3 232.41) (xy 241.3 233.68))
+  (wire (pts (xy 264.16 149.86) (xy 264.16 151.13))
     (stroke (width 0) (type default))
     (uuid 79c7b9f6-a5c6-46a8-9fb8-a6ea0e6c50ae)
   )
-  (wire (pts (xy 264.16 234.95) (xy 264.16 233.68))
+  (wire (pts (xy 287.02 152.4) (xy 287.02 151.13))
     (stroke (width 0) (type default))
     (uuid 7b3156ba-0d4c-4464-927a-30a1e08e629a)
   )
-  (wire (pts (xy 252.73 82.55) (xy 252.73 83.82))
+  (wire (pts (xy 278.13 74.93) (xy 278.13 76.2))
     (stroke (width 0) (type default))
     (uuid 7b4bd1b3-8285-4b29-a69c-ec9b870618c1)
   )
-  (wire (pts (xy 213.36 52.07) (xy 213.36 60.96))
+  (wire (pts (xy 238.76 58.42) (xy 240.03 58.42))
     (stroke (width 0) (type default))
-    (uuid 80563e3b-4f51-4123-bc1e-e64fdcdb5913)
+    (uuid 7f4bb10b-a68b-456f-8dd9-eafcbf6327f1)
   )
-  (wire (pts (xy 264.16 243.84) (xy 266.7 243.84))
+  (wire (pts (xy 287.02 161.29) (xy 289.56 161.29))
     (stroke (width 0) (type default))
     (uuid 82332a3b-b679-435c-aa19-d58e6ae18307)
   )
-  (wire (pts (xy 233.68 194.31) (xy 233.68 205.74))
+  (wire (pts (xy 256.54 115.57) (xy 256.54 127))
     (stroke (width 0) (type default))
     (uuid 85c2bf16-f867-43d6-8ca2-ea170b0f9f3a)
   )
-  (wire (pts (xy 238.76 38.1) (xy 238.76 40.64))
+  (wire (pts (xy 265.43 41.91) (xy 265.43 44.45))
     (stroke (width 0) (type default))
     (uuid 87848d50-93a2-4579-a7ba-ea8124df549b)
   )
-  (wire (pts (xy 275.59 85.09) (xy 287.02 85.09))
+  (wire (pts (xy 300.99 77.47) (xy 312.42 77.47))
     (stroke (width 0) (type default))
     (uuid 8aebf427-60a2-4113-875f-c609693eaae7)
   )
-  (wire (pts (xy 275.59 74.93) (xy 275.59 77.47))
+  (wire (pts (xy 300.99 67.31) (xy 300.99 69.85))
     (stroke (width 0) (type default))
     (uuid 8e1e7530-3aa0-41b6-a674-cacb308d5de0)
   )
-  (wire (pts (xy 289.56 97.79) (xy 289.56 95.25))
+  (wire (pts (xy 314.96 90.17) (xy 314.96 87.63))
     (stroke (width 0) (type default))
     (uuid 8f6b9e93-574a-4e0f-a68c-d2c6a4ad0c4f)
   )
@@ -2303,15 +2307,15 @@
     (stroke (width 0) (type default))
     (uuid 92b0c812-5ffb-4d05-b04e-51306a05347a)
   )
-  (wire (pts (xy 217.17 262.89) (xy 226.06 262.89))
+  (wire (pts (xy 240.03 180.34) (xy 248.92 180.34))
     (stroke (width 0) (type default))
     (uuid 9301c7a4-9e8b-4560-8465-11b70315d1f1)
   )
-  (wire (pts (xy 232.41 247.65) (xy 241.3 247.65))
+  (wire (pts (xy 255.27 165.1) (xy 264.16 165.1))
     (stroke (width 0) (type default))
     (uuid 935e49b8-0332-46db-ad8b-87a071e009da)
   )
-  (wire (pts (xy 217.17 52.07) (xy 217.17 50.8))
+  (wire (pts (xy 243.84 55.88) (xy 243.84 54.61))
     (stroke (width 0) (type default))
     (uuid 943b9217-c935-4f9d-8254-b8f523c6f58b)
   )
@@ -2319,15 +2323,15 @@
     (stroke (width 0) (type default))
     (uuid 95cb9931-06e3-4c16-88cf-ce295a5a038e)
   )
-  (wire (pts (xy 275.59 74.93) (xy 284.48 74.93))
+  (wire (pts (xy 300.99 67.31) (xy 309.88 67.31))
     (stroke (width 0) (type default))
     (uuid 96630dd0-45ac-44b0-9e0d-0e615a10789a)
   )
-  (wire (pts (xy 289.56 100.33) (xy 288.29 100.33))
+  (wire (pts (xy 314.96 92.71) (xy 313.69 92.71))
     (stroke (width 0) (type default))
     (uuid 9962229f-48ed-4979-8696-ca288831fc08)
   )
-  (wire (pts (xy 275.59 85.09) (xy 275.59 83.82))
+  (wire (pts (xy 300.99 77.47) (xy 300.99 76.2))
     (stroke (width 0) (type default))
     (uuid 9dc00583-a936-4925-bd59-80ab054b30a4)
   )
@@ -2339,31 +2343,31 @@
     (stroke (width 0) (type default))
     (uuid a19fc331-19de-4d84-b2f5-dcda6c58fb90)
   )
-  (wire (pts (xy 209.55 262.89) (xy 209.55 243.84))
+  (wire (pts (xy 232.41 180.34) (xy 232.41 161.29))
     (stroke (width 0) (type default))
     (uuid a320cf79-88dc-452a-a4a0-6cec52223f7f)
   )
-  (wire (pts (xy 217.17 232.41) (xy 232.41 232.41))
+  (wire (pts (xy 240.03 149.86) (xy 255.27 149.86))
     (stroke (width 0) (type default))
     (uuid a3f39440-b0f5-4c2b-9a38-706056abcaee)
   )
-  (wire (pts (xy 217.17 232.41) (xy 217.17 243.84))
+  (wire (pts (xy 240.03 149.86) (xy 240.03 161.29))
     (stroke (width 0) (type default))
     (uuid a61f246b-c32b-419a-a9f8-f8d6babb9847)
   )
-  (wire (pts (xy 245.11 82.55) (xy 252.73 82.55))
+  (wire (pts (xy 270.51 74.93) (xy 278.13 74.93))
     (stroke (width 0) (type default))
     (uuid a77a1e1e-4055-4113-a2ba-84372b0821fd)
   )
-  (wire (pts (xy 213.36 35.56) (xy 213.36 34.29))
+  (wire (pts (xy 240.03 39.37) (xy 240.03 38.1))
     (stroke (width 0) (type default))
     (uuid a9fb0777-d44e-4c92-b153-c1d8382418ea)
   )
-  (wire (pts (xy 232.41 232.41) (xy 241.3 232.41))
+  (wire (pts (xy 255.27 149.86) (xy 264.16 149.86))
     (stroke (width 0) (type default))
     (uuid af0d6c82-b284-4a0b-9356-3a047ac6fd34)
   )
-  (wire (pts (xy 241.3 95.25) (xy 245.11 95.25))
+  (wire (pts (xy 266.7 87.63) (xy 270.51 87.63))
     (stroke (width 0) (type default))
     (uuid b3afdb50-5872-4a90-b29e-8d87d6e3f51f)
   )
@@ -2371,35 +2375,35 @@
     (stroke (width 0) (type default))
     (uuid b61a57cd-ce1c-49b4-a167-f9cb1dede9cf)
   )
-  (wire (pts (xy 214.63 49.53) (xy 213.36 49.53))
+  (wire (pts (xy 241.3 53.34) (xy 240.03 53.34))
     (stroke (width 0) (type default))
     (uuid b63690a2-f7bb-4e2d-9d88-9a0f01659abe)
   )
-  (wire (pts (xy 237.49 190.5) (xy 237.49 199.39))
+  (wire (pts (xy 260.35 111.76) (xy 260.35 120.65))
     (stroke (width 0) (type default))
     (uuid b6d4b199-76d8-48de-87d8-678a66be3537)
   )
-  (wire (pts (xy 209.55 210.82) (xy 209.55 243.84))
+  (wire (pts (xy 232.41 132.08) (xy 232.41 161.29))
     (stroke (width 0) (type default))
     (uuid b7be54ee-f4f6-4af4-9b1c-68742a163a7b)
   )
-  (wire (pts (xy 226.06 204.47) (xy 226.06 205.74))
+  (wire (pts (xy 248.92 125.73) (xy 248.92 127))
     (stroke (width 0) (type default))
     (uuid b82816bb-9a7b-4f6d-8f8d-10a32e09ed33)
   )
-  (wire (pts (xy 302.26 97.79) (xy 289.56 97.79))
+  (wire (pts (xy 327.66 90.17) (xy 314.96 90.17))
     (stroke (width 0) (type default))
     (uuid b87470ad-9ac6-4cc6-b211-93ea70c44665)
   )
-  (wire (pts (xy 307.34 194.31) (xy 314.96 194.31))
+  (wire (pts (xy 330.2 115.57) (xy 337.82 115.57))
     (stroke (width 0) (type default))
     (uuid b8f2d752-520b-4eef-84cb-d3d0ec35f8e4)
   )
-  (wire (pts (xy 241.3 34.29) (xy 267.97 34.29))
+  (wire (pts (xy 267.97 38.1) (xy 294.64 38.1))
     (stroke (width 0) (type default))
     (uuid b9b24ada-7af2-486c-aa32-6e4a99151154)
   )
-  (wire (pts (xy 288.29 95.25) (xy 289.56 95.25))
+  (wire (pts (xy 313.69 87.63) (xy 314.96 87.63))
     (stroke (width 0) (type default))
     (uuid ba8beac0-2bb2-4bf6-82c2-edf9e91d5ccf)
   )
@@ -2411,23 +2415,23 @@
     (stroke (width 0) (type default))
     (uuid c0bf5a35-6900-4b36-b3e0-780e5a1ffe3d)
   )
-  (wire (pts (xy 233.68 86.36) (xy 233.68 95.25))
+  (wire (pts (xy 259.08 78.74) (xy 259.08 87.63))
     (stroke (width 0) (type default))
     (uuid c4c3331b-10fc-4a1f-86cf-3f21635d06ad)
   )
-  (wire (pts (xy 314.96 196.85) (xy 314.96 194.31))
+  (wire (pts (xy 337.82 118.11) (xy 337.82 115.57))
     (stroke (width 0) (type default))
     (uuid c5808b5d-fbb1-4ea8-b5e7-8036ce7495d5)
   )
-  (wire (pts (xy 284.48 194.31) (xy 285.75 194.31))
+  (wire (pts (xy 307.34 115.57) (xy 308.61 115.57))
     (stroke (width 0) (type default))
     (uuid c76f71c6-9138-4cd1-b3ea-9dfa63522842)
   )
-  (wire (pts (xy 276.86 95.25) (xy 288.29 95.25))
+  (wire (pts (xy 302.26 87.63) (xy 313.69 87.63))
     (stroke (width 0) (type default))
     (uuid c8495469-06df-4453-833b-14aa487f2927)
   )
-  (wire (pts (xy 215.9 52.07) (xy 213.36 52.07))
+  (wire (pts (xy 242.57 55.88) (xy 240.03 55.88))
     (stroke (width 0) (type default))
     (uuid c957222e-55b5-4c33-ad9e-edfe8ce77c36)
   )
@@ -2435,7 +2439,7 @@
     (stroke (width 0) (type default))
     (uuid c95ec08c-bd48-41f5-890f-87df658bada3)
   )
-  (wire (pts (xy 299.72 194.31) (xy 307.34 194.31))
+  (wire (pts (xy 322.58 115.57) (xy 330.2 115.57))
     (stroke (width 0) (type default))
     (uuid c9613a1b-6a20-4a5f-8826-6d28d24aa26b)
   )
@@ -2443,7 +2447,7 @@
     (stroke (width 0) (type default))
     (uuid caab1e05-c056-47f5-922c-8efff3b88216)
   )
-  (wire (pts (xy 233.68 82.55) (xy 233.68 86.36))
+  (wire (pts (xy 259.08 74.93) (xy 259.08 78.74))
     (stroke (width 0) (type default))
     (uuid cb2e6f18-9b4a-40aa-9d13-b7b5f908bbb0)
   )
@@ -2451,7 +2455,7 @@
     (stroke (width 0) (type default))
     (uuid cddc34d1-2d9d-46a5-a345-3965b8c2eeff)
   )
-  (wire (pts (xy 284.48 74.93) (xy 284.48 82.55))
+  (wire (pts (xy 309.88 67.31) (xy 309.88 74.93))
     (stroke (width 0) (type default))
     (uuid d0ae4957-67ca-4bce-ace7-05cba43eef5f)
   )
@@ -2459,31 +2463,31 @@
     (stroke (width 0) (type default))
     (uuid d12bcd7c-8233-448f-adac-de7f2b83e6b2)
   )
-  (wire (pts (xy 213.36 81.28) (xy 213.36 82.55))
+  (wire (pts (xy 238.76 73.66) (xy 238.76 74.93))
     (stroke (width 0) (type default))
     (uuid d2632cf6-2ee2-4e1d-9746-2339174ddf35)
   )
-  (wire (pts (xy 238.76 35.56) (xy 238.76 34.29))
+  (wire (pts (xy 265.43 39.37) (xy 265.43 38.1))
     (stroke (width 0) (type default))
     (uuid d86174a7-fb75-412f-885e-2371b69d64bf)
   )
-  (wire (pts (xy 271.78 234.95) (xy 264.16 234.95))
+  (wire (pts (xy 294.64 152.4) (xy 287.02 152.4))
     (stroke (width 0) (type default))
     (uuid de0603bd-508d-40ab-8cc8-546ed75f8418)
   )
-  (wire (pts (xy 264.16 250.19) (xy 264.16 248.92))
+  (wire (pts (xy 287.02 167.64) (xy 287.02 166.37))
     (stroke (width 0) (type default))
     (uuid e13dcb11-588c-44b0-b827-4ad8f065071c)
   )
-  (wire (pts (xy 299.72 190.5) (xy 267.97 190.5))
+  (wire (pts (xy 322.58 111.76) (xy 290.83 111.76))
     (stroke (width 0) (type default))
     (uuid e254c62e-5e45-4a7a-ab1f-c3a37b625fda)
   )
-  (wire (pts (xy 237.49 217.17) (xy 280.67 217.17))
+  (wire (pts (xy 260.35 138.43) (xy 303.53 138.43))
     (stroke (width 0) (type default))
     (uuid e6c6327b-113b-475b-870a-95c95fbae620)
   )
-  (wire (pts (xy 217.17 210.82) (xy 223.52 210.82))
+  (wire (pts (xy 240.03 132.08) (xy 246.38 132.08))
     (stroke (width 0) (type default))
     (uuid e92b3907-e6d7-4f6c-a573-e6f10ed1cb66)
   )
@@ -2491,27 +2495,27 @@
     (stroke (width 0) (type default))
     (uuid e9f31f7b-6be1-4c30-9c57-e8a3233c1237)
   )
-  (wire (pts (xy 208.28 262.89) (xy 209.55 262.89))
+  (wire (pts (xy 231.14 180.34) (xy 232.41 180.34))
     (stroke (width 0) (type default))
     (uuid ea4ee14f-2952-4ef6-9489-027b961e3c52)
   )
-  (wire (pts (xy 213.36 38.1) (xy 213.36 40.64))
+  (wire (pts (xy 240.03 41.91) (xy 240.03 44.45))
     (stroke (width 0) (type default))
     (uuid eb550e4f-2c08-4bdd-b930-c618461d3e62)
   )
-  (wire (pts (xy 217.17 243.84) (xy 217.17 247.65))
+  (wire (pts (xy 240.03 161.29) (xy 240.03 165.1))
     (stroke (width 0) (type default))
     (uuid ef0c3d68-10e6-44bf-baab-f4c56f9aaf81)
   )
-  (wire (pts (xy 241.3 82.55) (xy 245.11 82.55))
+  (wire (pts (xy 266.7 74.93) (xy 270.51 74.93))
     (stroke (width 0) (type default))
     (uuid f04ae0ea-648c-42fe-8314-131d32f7504e)
   )
-  (wire (pts (xy 241.3 247.65) (xy 241.3 248.92))
+  (wire (pts (xy 264.16 165.1) (xy 264.16 166.37))
     (stroke (width 0) (type default))
     (uuid f10ce210-cfac-4d5e-95e3-1ffb5535f8ad)
   )
-  (wire (pts (xy 266.7 232.41) (xy 271.78 232.41))
+  (wire (pts (xy 289.56 149.86) (xy 294.64 149.86))
     (stroke (width 0) (type default))
     (uuid f144c816-5509-4491-9587-6bcb6b2de6c4)
   )
@@ -2519,19 +2523,19 @@
     (stroke (width 0) (type default))
     (uuid f3ad1d5b-7f13-4487-9d70-4cf57a0424dd)
   )
-  (wire (pts (xy 191.77 210.82) (xy 194.31 210.82))
+  (wire (pts (xy 214.63 132.08) (xy 217.17 132.08))
     (stroke (width 0) (type default))
     (uuid f5bb1114-36b2-4185-b418-46c6fd9e6252)
   )
-  (wire (pts (xy 213.36 40.64) (xy 213.36 49.53))
+  (wire (pts (xy 240.03 44.45) (xy 240.03 53.34))
     (stroke (width 0) (type default))
     (uuid f6ad0aa6-6013-4eb6-85c8-d1836b6355b9)
   )
-  (wire (pts (xy 275.59 82.55) (xy 275.59 83.82))
+  (wire (pts (xy 300.99 74.93) (xy 300.99 76.2))
     (stroke (width 0) (type default))
     (uuid f921998a-e3df-412f-8b2b-77bac1be7e5a)
   )
-  (wire (pts (xy 212.09 86.36) (xy 213.36 86.36))
+  (wire (pts (xy 237.49 78.74) (xy 238.76 78.74))
     (stroke (width 0) (type default))
     (uuid f9a4865d-71a1-4bb3-9a4c-150a1ff24a77)
   )
@@ -2543,11 +2547,11 @@
     (stroke (width 0) (type default))
     (uuid fbb553ab-e3b7-47bc-9376-6da5870dad36)
   )
-  (wire (pts (xy 237.49 217.17) (xy 237.49 213.36))
+  (wire (pts (xy 260.35 138.43) (xy 260.35 134.62))
     (stroke (width 0) (type default))
     (uuid fbcedfab-162e-4b74-8e34-68b282802371)
   )
-  (wire (pts (xy 278.13 250.19) (xy 264.16 250.19))
+  (wire (pts (xy 300.99 167.64) (xy 287.02 167.64))
     (stroke (width 0) (type default))
     (uuid fc47ee30-edda-4087-ae46-8c8d276a9fdb)
   )
@@ -2555,15 +2559,15 @@
     (stroke (width 0) (type default))
     (uuid fc69fe45-1c5a-4f53-bb71-115ff9fe1805)
   )
-  (wire (pts (xy 341.63 196.85) (xy 314.96 196.85))
+  (wire (pts (xy 364.49 118.11) (xy 337.82 118.11))
     (stroke (width 0) (type default))
     (uuid fe5976dd-bff6-400a-8d15-602622b767d8)
   )
-  (wire (pts (xy 223.52 210.82) (xy 237.49 210.82))
+  (wire (pts (xy 246.38 132.08) (xy 260.35 132.08))
     (stroke (width 0) (type default))
     (uuid fe9b97f7-afc3-42ce-a207-366be374a8fc)
   )
-  (wire (pts (xy 214.63 50.8) (xy 214.63 49.53))
+  (wire (pts (xy 241.3 54.61) (xy 241.3 53.34))
     (stroke (width 0) (type default))
     (uuid ff1af658-6eee-45ac-8f19-252ff3404f34)
   )
@@ -2580,7 +2584,7 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 3fc03767-bdbc-42c6-b5c7-9ab42bf4d9e1)
   )
-  (label "Pico" (at 283.21 85.09 0) (fields_autoplaced)
+  (label "Pico" (at 308.61 77.47 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 446aa260-33ff-4c68-b246-57affcac18e6)
   )
@@ -2588,15 +2592,15 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 55dd4164-6b74-486e-97fc-a435dee4e586)
   )
-  (label "écrant{slash}ESC{slash}Matrice{slash}Lidar" (at 314.96 194.31 0) (fields_autoplaced)
+  (label "écrant{slash}ESC{slash}Matrice{slash}Lidar" (at 337.82 115.57 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b0a13bdd-80a7-4bf6-9d4c-21d74b09ff07)
   )
-  (label "LX-16A" (at 271.78 250.19 0) (fields_autoplaced)
+  (label "LX-16A" (at 294.64 167.64 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid e9430fca-e8d1-423a-8eef-fcb2e0cc35ee)
   )
-  (label "Pi 1 et 3 B+" (at 289.56 95.25 0) (fields_autoplaced)
+  (label "Pi 1 et 3 B+" (at 314.96 87.63 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid f7c0eb78-6472-4713-a2d1-8bd76fef7c11)
   )
@@ -2622,10 +2626,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "5V5A" (shape input) (at 299.72 190.5 0) (fields_autoplaced)
+  (global_label "5V5A" (shape input) (at 322.58 111.76 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 2bcd04d1-3422-40df-8178-983faa548f20)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 306.7293 190.4206 0)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 329.5893 111.6806 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2636,17 +2640,17 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "3,7V3A" (shape input) (at 281.94 85.09 90) (fields_autoplaced)
+  (global_label "3,7V3A" (shape input) (at 307.34 77.47 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 3761def8-05ae-4081-94c4-fa1d9fbcc3db)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 281.8606 76.2664 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 307.2606 68.6464 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "?V3A" (shape input) (at 269.24 234.95 90) (fields_autoplaced)
+  (global_label "?V3A" (shape input) (at 292.1 152.4 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 3cbdf456-2141-4103-a13e-34cbe46efafe)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 269.1606 228.0617 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 292.0206 145.5117 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2657,17 +2661,17 @@
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
-  (global_label "5V1,5A" (shape input) (at 313.69 194.31 90) (fields_autoplaced)
+  (global_label "5V1,5A" (shape input) (at 336.55 115.57 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 88c2281f-94cc-44c7-9aee-a443cb564421)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 313.6106 185.4864 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 336.4706 106.7464 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "7V3A" (shape input) (at 269.24 250.19 90) (fields_autoplaced)
+  (global_label "7V3A" (shape input) (at 292.1 167.64 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid b38465b5-36d0-457a-ad70-33c54b9cfe61)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 269.1606 243.1807 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 292.0206 160.6307 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2678,10 +2682,10 @@
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
-  (global_label "5V3A" (shape input) (at 288.29 95.25 90) (fields_autoplaced)
+  (global_label "5V3A" (shape input) (at 313.69 87.63 90) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid c6622e3f-8356-4834-be89-a9d4eed12a05)
-    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 288.2106 88.2407 90)
+    (property "Intersheetrefs" "${INTERSHEET_REFS}" (at 313.6106 80.6207 90)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
   )
@@ -2700,24 +2704,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 232.41 240.03 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 255.27 157.48 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 009cc941-c029-4446-a6ae-af947a304653)
-    (property "Reference" "#PWR0104" (at 232.41 246.38 0)
+    (property "Reference" "#PWR0104" (at 255.27 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 232.41 243.84 0)
+    (property "Value" "GND" (at 255.27 161.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 232.41 240.03 0)
+    (property "Footprint" "" (at 255.27 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 232.41 240.03 0)
+    (property "Datasheet" "" (at 255.27 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid dcf83621-66a4-40cb-a321-59ecd80a085b))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0104") (unit 1)
         )
@@ -2725,25 +2729,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 292.1 85.09 0) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 317.5 77.47 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 0ae396ed-658d-4907-94bc-d13d67e0d4c8)
-    (property "Reference" "J9" (at 292.1 76.2 0)
+    (property "Reference" "J9" (at 317.5 68.58 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02" (at 292.1 78.74 0)
+    (property "Value" "Conn_01x02" (at 317.5 71.12 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 292.1 85.09 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 317.5 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 292.1 85.09 0)
+    (property "Datasheet" "~" (at 317.5 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5cd46767-83db-4661-b4be-fd5b4b4bc01c))
     (pin "2" (uuid eeba63cf-cdee-4fe2-a869-9320f0b056d9))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J9") (unit 1)
         )
@@ -2769,7 +2773,7 @@
     (pin "1" (uuid d4635360-bb7e-4d55-a725-99426d831a7d))
     (pin "2" (uuid 85270f33-f6d6-4c7f-a477-03bbb3a99b1c))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "Entree_BAU1") (unit 1)
         )
@@ -2796,7 +2800,7 @@
     (pin "2" (uuid 9089c1fe-7f3f-4602-a6c6-962a71813ae7))
     (pin "3" (uuid ad7886f7-6563-4b40-95f2-59a790d4ab47))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "U5") (unit 1)
         )
@@ -2804,25 +2808,25 @@
     )
   )
 
-  (symbol (lib_id "Connector:Conn_01x02_Male") (at 233.68 35.56 0) (unit 1)
+  (symbol (lib_id "Connector:Conn_01x02_Male") (at 260.35 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0dadcc47-0303-4762-bfc3-063ee05feae7)
-    (property "Reference" "JumperBatt_NiMh-NiCd1" (at 229.87 29.21 90)
+    (property "Reference" "JumperBatt_NiMh-NiCd1" (at 256.54 33.02 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02_Male" (at 232.41 31.75 90)
+    (property "Value" "Conn_01x02_Male" (at 259.08 35.56 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 233.68 35.56 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 260.35 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 233.68 35.56 0)
+    (property "Datasheet" "~" (at 260.35 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c6418d67-b334-4d96-a023-09999af583ac))
     (pin "2" (uuid 11c94c83-b8d9-4d96-8e8c-745ce931559a))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "JumperBatt_NiMh-NiCd1") (unit 1)
         )
@@ -2830,25 +2834,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 288.29 104.14 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 313.69 96.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 13c66a39-eeb5-4027-9223-72f5890e6e1c)
-    (property "Reference" "C8" (at 285.75 106.68 0)
+    (property "Reference" "C8" (at 311.15 99.06 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1000u" (at 288.29 107.95 0)
+    (property "Value" "1000u" (at 313.69 100.33 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm" (at 289.2552 107.95 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm" (at 314.6552 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 288.29 104.14 0)
+    (property "Datasheet" "~" (at 313.69 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a2924071-1446-4bfa-90cc-6a2f1a2b7b01))
     (pin "2" (uuid 3002aa08-cdba-45e2-8b59-38e87882cd39))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C8") (unit 1)
         )
@@ -2873,7 +2877,7 @@
     )
     (pin "1" (uuid 55fbdbed-8a1b-4573-86c3-26c64e20c88d))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0102") (unit 1)
         )
@@ -2881,25 +2885,25 @@
     )
   )
 
-  (symbol (lib_id "Device:LED") (at 201.93 82.55 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Device:LED") (at 227.33 74.93 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 17f7a0b1-a022-48b1-8381-4dfa188648e0)
-    (property "Reference" "D3" (at 200.3425 76.2 0)
+    (property "Reference" "D3" (at 227.33 78.74 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED" (at 200.3425 78.74 0)
+    (property "Value" "LED" (at 227.33 81.28 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "LED_THT:LED_D5.0mm" (at 201.93 82.55 0)
+    (property "Footprint" "LED_THT:LED_D5.0mm" (at 227.33 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 201.93 82.55 0)
+    (property "Datasheet" "~" (at 227.33 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d0a1de66-f007-43ce-bd7f-27e579264567))
     (pin "2" (uuid 6d729b85-c54e-43e2-b331-38cde1862f33))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "D3") (unit 1)
         )
@@ -2907,24 +2911,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 195.58 82.55 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 220.98 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1b8168c0-ea65-4c84-ab3c-ef82c2909288)
-    (property "Reference" "#PWR0141" (at 195.58 88.9 0)
+    (property "Reference" "#PWR0141" (at 220.98 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 193.04 85.09 0)
+    (property "Value" "GND" (at 218.44 77.47 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 195.58 82.55 0)
+    (property "Footprint" "" (at 220.98 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 195.58 82.55 0)
+    (property "Datasheet" "" (at 220.98 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b94fa030-1d29-4810-968b-b3408a627317))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0141") (unit 1)
         )
@@ -2948,7 +2952,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H8") (unit 1)
         )
@@ -2956,24 +2960,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 226.06 265.43 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 248.92 182.88 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1d624c2f-22a0-43c9-bf4a-302c2023bc61)
-    (property "Reference" "#PWR0103" (at 226.06 271.78 0)
+    (property "Reference" "#PWR0103" (at 248.92 189.23 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 226.06 269.24 0)
+    (property "Value" "GND" (at 248.92 186.69 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 226.06 265.43 0)
+    (property "Footprint" "" (at 248.92 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 226.06 265.43 0)
+    (property "Datasheet" "" (at 248.92 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 21315e35-9efc-4b99-9326-3d2c0c636d0a))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0103") (unit 1)
         )
@@ -2998,7 +3002,7 @@
     )
     (pin "1" (uuid 1eaa3974-abeb-44a9-acfd-494c9d16fd92))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0149") (unit 1)
         )
@@ -3006,24 +3010,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 270.51 34.29 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 297.18 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 1fc7e1b5-3e29-4b44-bc49-976fc66b1aeb)
-    (property "Reference" "#PWR0138" (at 270.51 40.64 0)
+    (property "Reference" "#PWR0138" (at 297.18 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 270.51 39.37 0)
+    (property "Value" "GND" (at 297.18 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 270.51 34.29 0)
+    (property "Footprint" "" (at 297.18 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 270.51 34.29 0)
+    (property "Datasheet" "" (at 297.18 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b6c2f302-513c-4b61-9df9-51977d104bbe))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0138") (unit 1)
         )
@@ -3031,24 +3035,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 307.34 201.93 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 330.2 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2239e967-33f4-4b7d-92fc-280766478996)
-    (property "Reference" "#PWR0111" (at 307.34 208.28 0)
+    (property "Reference" "#PWR0111" (at 330.2 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 307.34 205.74 0)
+    (property "Value" "GND" (at 330.2 127 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 307.34 201.93 0)
+    (property "Footprint" "" (at 330.2 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 307.34 201.93 0)
+    (property "Datasheet" "" (at 330.2 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7b4aea9f-6d60-43a1-a06a-2ca3bf57dcdd))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0111") (unit 1)
         )
@@ -3056,24 +3060,24 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole_Pad") (at 213.36 63.5 180) (unit 1)
+  (symbol (lib_id "Mechanical:MountingHole_Pad") (at 238.76 60.96 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 22e87568-8c86-41d1-aee7-91df37ec389c)
-    (property "Reference" "H5" (at 215.9 63.4999 0)
+    (property "Reference" "H5" (at 241.3 60.9599 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "MountingHole_Pad" (at 215.9 66.0399 0)
+    (property "Value" "MountingHole_Pad" (at 241.3 63.4999 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 213.36 63.5 0)
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 238.76 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 213.36 63.5 0)
+    (property "Datasheet" "~" (at 238.76 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7ccea959-c8bc-4cd6-8da3-4fe9e375b64b))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H5") (unit 1)
         )
@@ -3097,7 +3101,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H10") (unit 1)
         )
@@ -3122,7 +3126,7 @@
     )
     (pin "1" (uuid 745d7063-b13c-4e3b-9224-ccbd6a550c8c))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0145") (unit 1)
         )
@@ -3130,24 +3134,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 264.16 105.41 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 289.56 97.79 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 26a60edf-da61-406a-b78c-dacb688e2796)
-    (property "Reference" "#PWR0114" (at 264.16 111.76 0)
+    (property "Reference" "#PWR0114" (at 289.56 104.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 264.16 109.22 0)
+    (property "Value" "GND" (at 289.56 101.6 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 264.16 105.41 0)
+    (property "Footprint" "" (at 289.56 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 264.16 105.41 0)
+    (property "Datasheet" "" (at 289.56 97.79 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ff0920ee-94a5-4d03-b7fb-60d53a15e541))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0114") (unit 1)
         )
@@ -3155,43 +3159,43 @@
     )
   )
 
-  (symbol (lib_id "XT60-M:XT60-M") (at 215.9 29.21 90) (unit 1)
+  (symbol (lib_id "XT60-M:XT60-M") (at 242.57 33.02 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2e7fdc0c-2ead-46d3-b5ce-97622aba394b)
-    (property "Reference" "J2" (at 219.71 24.1299 90)
+    (property "Reference" "J2" (at 246.38 27.9399 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "XT60-M" (at 219.71 26.6699 90)
+    (property "Value" "XT60-M" (at 246.38 30.4799 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "AMASS_XT60-M" (at 215.9 29.21 0)
+    (property "Footprint" "AMASS_XT60-M" (at 242.57 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Datasheet" "" (at 215.9 29.21 0)
+    (property "Datasheet" "" (at 242.57 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Price" "None" (at 215.9 29.21 0)
+    (property "Price" "None" (at 242.57 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Availability" "Not in stock" (at 215.9 29.21 0)
+    (property "Availability" "Not in stock" (at 242.57 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "MP" "XT60-M" (at 215.9 29.21 0)
+    (property "MP" "XT60-M" (at 242.57 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Package" "Package" (at 215.9 29.21 0)
+    (property "Package" "Package" (at 242.57 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Description" "\\nPlug; DC supply; XT60; male; PIN: 2; for cable; soldered; 30A; 500V\\n" (at 215.9 29.21 0)
+    (property "Description" "\\nPlug; DC supply; XT60; male; PIN: 2; for cable; soldered; 30A; 500V\\n" (at 242.57 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "MF" "AMASS" (at 215.9 29.21 0)
+    (property "MF" "AMASS" (at 242.57 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (pin "N" (uuid adbe8c01-e7c2-449f-bc24-86e38f0140bb))
     (pin "P" (uuid f8061f78-a66e-435b-b081-0378192574f2))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J2") (unit 1)
         )
@@ -3223,7 +3227,7 @@
     (pin "6" (uuid 755d71a1-aee1-4cc5-ad70-4dca68d7fd42))
     (pin "7" (uuid 0aaa6e69-1b8f-4425-8aea-de775934fea5))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "U2") (unit 1)
         )
@@ -3231,24 +3235,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 226.06 205.74 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 248.92 127 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 326fe980-04ec-4209-b69f-f15b0fe2aff8)
-    (property "Reference" "#PWR0113" (at 226.06 212.09 0)
+    (property "Reference" "#PWR0113" (at 248.92 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 226.06 209.55 0)
+    (property "Value" "GND" (at 248.92 130.81 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 226.06 205.74 0)
+    (property "Footprint" "" (at 248.92 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 226.06 205.74 0)
+    (property "Datasheet" "" (at 248.92 127 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a3e5eda2-6c90-421d-9d32-877e9307dc91))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0113") (unit 1)
         )
@@ -3256,24 +3260,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 245.11 102.87 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 270.51 95.25 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 33ed4849-fac2-4fc9-a3ae-46ac52bdcdcd)
-    (property "Reference" "#PWR0121" (at 245.11 109.22 0)
+    (property "Reference" "#PWR0121" (at 270.51 101.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 245.11 106.68 0)
+    (property "Value" "GND" (at 270.51 99.06 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 245.11 102.87 0)
+    (property "Footprint" "" (at 270.51 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 245.11 102.87 0)
+    (property "Datasheet" "" (at 270.51 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 812a198a-1c89-4acc-bfb4-d5098f535fc7))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0121") (unit 1)
         )
@@ -3298,7 +3302,7 @@
     )
     (pin "1" (uuid c865f5c8-622b-40a0-872c-07081b578528))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0144") (unit 1)
         )
@@ -3323,7 +3327,7 @@
     )
     (pin "1" (uuid e2c15211-43ea-4194-be3b-46b850c4071e))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0135") (unit 1)
         )
@@ -3331,25 +3335,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 222.25 52.07 0) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 248.92 55.88 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 375f0878-ea47-41a6-9722-28d879a4c8fb)
-    (property "Reference" "BMS1" (at 222.25 43.18 0)
+    (property "Reference" "BMS1" (at 248.92 46.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02" (at 222.25 45.72 0)
+    (property "Value" "Conn_01x02" (at 248.92 49.53 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 222.25 52.07 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 248.92 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 222.25 52.07 0)
+    (property "Datasheet" "~" (at 248.92 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 792bc059-e4d0-431a-93f3-6f102bde64ac))
     (pin "2" (uuid 67fcab10-50d5-4550-967d-c9182723fea3))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "BMS1") (unit 1)
         )
@@ -3357,25 +3361,25 @@
     )
   )
 
-  (symbol (lib_id "Diode:1N5819") (at 276.86 104.14 270) (unit 1)
+  (symbol (lib_id "Diode:1N5819") (at 302.26 96.52 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3accde2e-4f50-4b95-8293-f8da4f81cea1)
-    (property "Reference" "D1" (at 278.13 104.14 90)
+    (property "Reference" "D1" (at 303.53 96.52 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1N5819" (at 273.05 106.68 90)
+    (property "Value" "1N5819" (at 298.45 99.06 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" (at 272.415 104.14 0)
+    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" (at 297.815 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf" (at 276.86 104.14 0)
+    (property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf" (at 302.26 96.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 96a10db4-8833-4f74-bf34-fbc14f1a42da))
     (pin "2" (uuid 47e3f798-7836-4d7e-8be1-40332273b6c8))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "D1") (unit 1)
         )
@@ -3399,7 +3403,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H4") (unit 1)
         )
@@ -3437,7 +3441,7 @@
     (pin "14" (uuid d17d22d1-fff7-4e00-b8b5-1d25f66a7227))
     (pin "7" (uuid d673471f-d598-468e-88b9-25e8dc3c545f))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "U4") (unit 7)
         )
@@ -3463,7 +3467,7 @@
     (pin "1" (uuid 7255cbbf-e98c-4d3f-ad81-39fe26f8728e))
     (pin "2" (uuid d9c9fa96-ac08-4135-9436-191fb81be4b1))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C4") (unit 1)
         )
@@ -3488,7 +3492,7 @@
     )
     (pin "1" (uuid 18a75c46-0aa9-4ded-b7ca-91f6f8f033b9))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0125") (unit 1)
         )
@@ -3496,25 +3500,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 307.34 198.12 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 330.2 119.38 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 456c0c50-66b0-4ae8-aa71-9b3944f25589)
-    (property "Reference" "C5" (at 304.8 200.66 0)
+    (property "Reference" "C5" (at 327.66 121.92 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1000u" (at 307.34 201.93 0)
+    (property "Value" "1000u" (at 330.2 123.19 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm" (at 308.3052 201.93 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm" (at 331.1652 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 307.34 198.12 0)
+    (property "Datasheet" "~" (at 330.2 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0c7df282-d4e7-4bf7-8977-fb89801baee5))
     (pin "2" (uuid 08e00e9d-cea7-494e-aefe-fcff51aa355c))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C5") (unit 1)
         )
@@ -3541,7 +3545,7 @@
     (pin "2" (uuid 62e4c674-4975-434f-aa3e-2e0c08fde9c2))
     (pin "3" (uuid 688ccf95-76df-4e39-bb33-287366dd4488))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "Q2") (unit 1)
         )
@@ -3567,7 +3571,7 @@
     (pin "1" (uuid a75c56c5-bb50-4b65-ad14-696f9044517a))
     (pin "2" (uuid c3391629-458a-471d-ad92-7f3d2800b336))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C9") (unit 1)
         )
@@ -3575,25 +3579,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 231.14 265.43 0) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 254 182.88 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4df51e07-c692-4033-a584-2b758f32c1a6)
-    (property "Reference" "J7" (at 232.41 260.35 0)
+    (property "Reference" "J7" (at 255.27 177.8 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02" (at 233.68 267.97 0)
+    (property "Value" "Conn_01x02" (at 256.54 185.42 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 231.14 265.43 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 254 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 231.14 265.43 0)
+    (property "Datasheet" "~" (at 254 182.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 75da9749-0df1-4ee8-9645-ba642f1ac153))
     (pin "2" (uuid d982ff2e-4dd4-4a2f-bcf1-32e6eb9d8142))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J7") (unit 1)
         )
@@ -3601,49 +3605,49 @@
     )
   )
 
-  (symbol (lib_id "MC34167TG:MC34167TG") (at 237.49 203.2 0) (unit 1)
+  (symbol (lib_id "MC34167TG:MC34167TG") (at 260.35 124.46 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4e18fc86-ff34-4a0e-99d9-764d5bdffdbb)
-    (property "Reference" "IC1" (at 269.24 205.74 0)
+    (property "Reference" "IC1" (at 292.1 127 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MC34167TG" (at 262.89 208.28 0)
+    (property "Value" "MC34167TG" (at 285.75 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical" (at 279.4 200.66 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical" (at 302.26 121.92 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "http://www.onsemi.com/pub/Collateral/MC34167-D.PDF" (at 279.4 203.2 0)
+    (property "Datasheet" "http://www.onsemi.com/pub/Collateral/MC34167-D.PDF" (at 302.26 124.46 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Description" "5A, Buck/Boost/Inv. Sw Reg, MC34167TG ON Semiconductor MC34167TG, Buck/Boost Converter 5A, -2  40 V, 79 kHz, 5-Pin TO-220" (at 279.4 205.74 0)
+    (property "Description" "5A, Buck/Boost/Inv. Sw Reg, MC34167TG ON Semiconductor MC34167TG, Buck/Boost Converter 5A, -2  40 V, 79 kHz, 5-Pin TO-220" (at 302.26 127 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Height" "15.57" (at 279.4 208.28 0)
+    (property "Height" "15.57" (at 302.26 129.54 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Manufacturer_Name" "onsemi" (at 279.4 210.82 0)
+    (property "Manufacturer_Name" "onsemi" (at 302.26 132.08 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Manufacturer_Part_Number" "MC34167TG" (at 279.4 213.36 0)
+    (property "Manufacturer_Part_Number" "MC34167TG" (at 302.26 134.62 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Mouser Part Number" "863-MC34167TG" (at 279.4 215.9 0)
+    (property "Mouser Part Number" "863-MC34167TG" (at 302.26 137.16 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/MC34167TG?qs=dFKnUM%2FquJbn9bYQ9tI2sg%3D%3D" (at 279.4 218.44 0)
+    (property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/MC34167TG?qs=dFKnUM%2FquJbn9bYQ9tI2sg%3D%3D" (at 302.26 139.7 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Arrow Part Number" "MC34167TG" (at 279.4 220.98 0)
+    (property "Arrow Part Number" "MC34167TG" (at 302.26 142.24 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Arrow Price/Stock" "https://www.arrow.com/en/products/mc34167tg/on-semiconductor?region=nac" (at 279.4 223.52 0)
+    (property "Arrow Price/Stock" "https://www.arrow.com/en/products/mc34167tg/on-semiconductor?region=nac" (at 302.26 144.78 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Mouser Testing Part Number" "" (at 279.4 226.06 0)
+    (property "Mouser Testing Part Number" "" (at 302.26 147.32 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Mouser Testing Price/Stock" "" (at 279.4 228.6 0)
+    (property "Mouser Testing Price/Stock" "" (at 302.26 149.86 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (pin "1" (uuid 90068acc-5ed6-443d-beb1-12f5782811b8))
@@ -3652,7 +3656,7 @@
     (pin "4" (uuid 64ce9893-f43c-4da8-9566-b5d1c578d639))
     (pin "5" (uuid a4a777b6-b429-402e-a69a-0635c59b5e4c))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "IC1") (unit 1)
         )
@@ -3677,7 +3681,7 @@
     )
     (pin "1" (uuid 04d32380-d46f-4b75-b80f-2990a5a0d9aa))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0117") (unit 1)
         )
@@ -3685,25 +3689,25 @@
     )
   )
 
-  (symbol (lib_id "Connector:Conn_01x02_Male") (at 208.28 49.53 0) (unit 1)
+  (symbol (lib_id "Connector:Conn_01x02_Male") (at 234.95 53.34 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 509960d6-d704-44ba-8127-11d0b0ce3db4)
-    (property "Reference" "JumperBMS1" (at 204.47 44.45 0)
+    (property "Reference" "JumperBMS1" (at 231.14 48.26 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02_Male" (at 201.93 46.99 0)
+    (property "Value" "Conn_01x02_Male" (at 228.6 50.8 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 208.28 49.53 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 234.95 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 208.28 49.53 0)
+    (property "Datasheet" "~" (at 234.95 53.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 37275adf-1a2c-489e-b450-8bed9aa77fe5))
     (pin "2" (uuid f223b6ba-b955-4c2f-bd3a-c6f5ad700b0f))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "JumperBMS1") (unit 1)
         )
@@ -3711,25 +3715,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 217.17 266.7 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 240.03 184.15 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 523989cb-a47e-49d0-8b77-088b732ce453)
-    (property "Reference" "C13" (at 214.63 269.24 0)
+    (property "Reference" "C13" (at 237.49 186.69 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1000u" (at 217.17 270.51 0)
+    (property "Value" "1000u" (at 240.03 187.96 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm" (at 218.1352 270.51 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.80mm" (at 240.9952 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 217.17 266.7 0)
+    (property "Datasheet" "~" (at 240.03 184.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 79f19651-c546-4e01-8974-a5a4383c7b82))
     (pin "2" (uuid 3bedd521-496f-4b28-b99f-03175b610aff))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C13") (unit 1)
         )
@@ -3737,25 +3741,25 @@
     )
   )
 
-  (symbol (lib_id "pspice:INDUCTOR") (at 292.1 194.31 0) (unit 1)
+  (symbol (lib_id "pspice:INDUCTOR") (at 314.96 115.57 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 53471224-713a-41ce-9327-472ccd121410)
-    (property "Reference" "L2" (at 292.1 189.23 0)
+    (property "Reference" "L2" (at 314.96 110.49 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "100u" (at 292.1 186.69 0)
+    (property "Value" "100u" (at 314.96 107.95 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_THT:L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2" (at 292.1 194.31 0)
+    (property "Footprint" "Inductor_THT:L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2" (at 314.96 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 292.1 194.31 0)
+    (property "Datasheet" "~" (at 314.96 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 0984d628-5f8b-4515-b991-ef7e85118577))
     (pin "2" (uuid e6a74e45-5251-4dc6-ad4c-11acc3a7bf29))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "L2") (unit 1)
         )
@@ -3763,25 +3767,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 232.41 236.22 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 255.27 153.67 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 58b95616-6a5e-4eed-bc9f-0be95f1945aa)
-    (property "Reference" "C6" (at 229.87 238.76 0)
+    (property "Reference" "C6" (at 252.73 156.21 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100u" (at 232.41 240.03 0)
+    (property "Value" "100u" (at 255.27 157.48 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 233.3752 240.03 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 256.2352 157.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 232.41 236.22 0)
+    (property "Datasheet" "~" (at 255.27 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid f99c96d7-d779-4656-b7a7-f1b8b0f50be3))
     (pin "2" (uuid 5abfc28f-91cb-46ac-babe-bde2a2a8665f))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C6") (unit 1)
         )
@@ -3807,7 +3811,7 @@
     (pin "1" (uuid f6eed75b-0b85-45b8-aa0b-e5484a204b5c))
     (pin "2" (uuid b8b69bce-f480-4ca7-ba69-8c9d66cfd92e))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "R5") (unit 1)
         )
@@ -3815,25 +3819,25 @@
     )
   )
 
-  (symbol (lib_id "Diode:1N5819") (at 284.48 198.12 270) (unit 1)
+  (symbol (lib_id "Diode:1N5819") (at 307.34 119.38 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5da74fef-7078-45e3-8a60-737e139e8bd7)
-    (property "Reference" "D2" (at 285.75 198.12 90)
+    (property "Reference" "D2" (at 308.61 119.38 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1N5819" (at 280.67 200.66 90)
+    (property "Value" "1N5819" (at 303.53 121.92 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" (at 280.035 198.12 0)
+    (property "Footprint" "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" (at 302.895 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf" (at 284.48 198.12 0)
+    (property "Datasheet" "http://www.vishay.com/docs/88525/1n5817.pdf" (at 307.34 119.38 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 9377891d-35cb-4db8-8a71-a747f48d3b41))
     (pin "2" (uuid b2b470d7-b02b-41c7-92d5-b9cc5dd83eca))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "D2") (unit 1)
         )
@@ -3841,24 +3845,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 232.41 255.27 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 255.27 172.72 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5fd27cdd-244c-4de1-a812-50695a05c365)
-    (property "Reference" "#PWR0105" (at 232.41 261.62 0)
+    (property "Reference" "#PWR0105" (at 255.27 179.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 234.95 257.81 0)
+    (property "Value" "GND" (at 257.81 175.26 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 232.41 255.27 0)
+    (property "Footprint" "" (at 255.27 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 232.41 255.27 0)
+    (property "Datasheet" "" (at 255.27 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e03d396f-e4bd-4279-8cfa-0c407eaa72e1))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0105") (unit 1)
         )
@@ -3866,25 +3870,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 307.34 97.79 0) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 332.74 90.17 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 63900250-5bfb-4fa1-b734-28960a968328)
-    (property "Reference" "J11" (at 307.34 88.9 0)
+    (property "Reference" "J11" (at 332.74 81.28 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02" (at 307.34 91.44 0)
+    (property "Value" "Conn_01x02" (at 332.74 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 307.34 97.79 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 332.74 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 307.34 97.79 0)
+    (property "Datasheet" "~" (at 332.74 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7213919f-aba2-4b48-a304-2ebaec7cc85e))
     (pin "2" (uuid 6d658f54-90c1-4bc4-991b-338bc9e0ff34))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J11") (unit 1)
         )
@@ -3909,7 +3913,7 @@
     )
     (pin "1" (uuid cd810d05-974b-4804-9791-331a819a1a39))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0139") (unit 1)
         )
@@ -3917,24 +3921,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 241.3 227.33 180) (unit 1)
+  (symbol (lib_id "power:GND") (at 264.16 144.78 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 660070bf-d9c9-4bb0-b141-098f50622c52)
-    (property "Reference" "#PWR0153" (at 241.3 220.98 0)
+    (property "Reference" "#PWR0153" (at 264.16 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 241.3 223.52 0)
+    (property "Value" "GND" (at 264.16 140.97 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 241.3 227.33 0)
+    (property "Footprint" "" (at 264.16 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 241.3 227.33 0)
+    (property "Datasheet" "" (at 264.16 144.78 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7ad6b507-1458-44c7-bbcd-45b923a5d3e2))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0153") (unit 1)
         )
@@ -3942,24 +3946,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 241.3 228.6 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 264.16 146.05 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 69e9d56a-2d14-455e-88f1-28b48c304cec)
-    (property "Reference" "#PWR0151" (at 241.3 234.95 0)
+    (property "Reference" "#PWR0151" (at 264.16 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 238.76 231.14 0)
+    (property "Value" "GND" (at 261.62 148.59 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 241.3 228.6 0)
+    (property "Footprint" "" (at 264.16 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 241.3 228.6 0)
+    (property "Datasheet" "" (at 264.16 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d993d63f-2de5-4ffc-a7b2-957751940cf7))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0151") (unit 1)
         )
@@ -3985,7 +3989,7 @@
     (pin "1" (uuid e2c87210-df18-4337-8f76-203ca34d24e2))
     (pin "2" (uuid e308c96e-4e83-46bd-a948-0e55fedf1cea))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J3") (unit 1)
         )
@@ -4012,7 +4016,7 @@
     (pin "2" (uuid b6d9229b-8f2d-43bd-859f-1c7204836f26))
     (pin "3" (uuid f40c298d-07c5-4a1e-b15f-0596adf8a787))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "Q1") (unit 1)
         )
@@ -4020,24 +4024,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 245.11 90.17 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 270.51 82.55 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6e1e2803-c690-431e-8d14-38909f593ee9)
-    (property "Reference" "#PWR0118" (at 245.11 96.52 0)
+    (property "Reference" "#PWR0118" (at 270.51 88.9 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 247.65 92.71 0)
+    (property "Value" "GND" (at 273.05 85.09 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 245.11 90.17 0)
+    (property "Footprint" "" (at 270.51 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 245.11 90.17 0)
+    (property "Datasheet" "" (at 270.51 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8ac88a91-7668-47d7-9d9a-3263bca5670c))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0118") (unit 1)
         )
@@ -4045,24 +4049,24 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole_Pad") (at 213.36 78.74 0) (unit 1)
+  (symbol (lib_id "Mechanical:MountingHole_Pad") (at 238.76 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7097a486-6a64-4324-95d2-76f27e101fd5)
-    (property "Reference" "H6" (at 215.9 76.1999 0)
+    (property "Reference" "H6" (at 241.3 68.5799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole_Pad" (at 215.9 78.7399 0)
+    (property "Value" "MountingHole_Pad" (at 241.3 71.1199 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 213.36 78.74 0)
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 238.76 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 213.36 78.74 0)
+    (property "Datasheet" "~" (at 238.76 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid efb29eda-5e42-4588-a808-f3686ca4e6b6))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H6") (unit 1)
         )
@@ -4094,7 +4098,7 @@
     (pin "7" (uuid 4b7f3c32-9496-4471-b63b-091c0ee91bd0))
     (pin "8" (uuid 2ea304e5-63b1-4862-b40b-5a102fc86f33))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J8") (unit 1)
         )
@@ -4119,7 +4123,7 @@
     )
     (pin "1" (uuid bfc8878b-5fc7-4ca2-83ae-a4fc9eb911b5))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0146") (unit 1)
         )
@@ -4127,25 +4131,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 346.71 196.85 0) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 369.57 118.11 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7376e640-96fe-4d89-bdf3-2426549bfa07)
-    (property "Reference" "J12" (at 346.71 187.96 0)
+    (property "Reference" "J12" (at 369.57 109.22 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02" (at 346.71 190.5 0)
+    (property "Value" "Conn_01x02" (at 369.57 111.76 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 346.71 196.85 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 369.57 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 346.71 196.85 0)
+    (property "Datasheet" "~" (at 369.57 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid d4d63c92-6313-449e-b7f5-79e602cf2ca5))
     (pin "2" (uuid 48f71dc1-85f5-45c5-8ed2-698c4b4002d0))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J12") (unit 1)
         )
@@ -4153,24 +4157,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 302.26 95.25 180) (unit 1)
+  (symbol (lib_id "power:GND") (at 327.66 87.63 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 74c48950-ff66-4841-975f-8c31e3b82da3)
-    (property "Reference" "#PWR0109" (at 302.26 88.9 0)
+    (property "Reference" "#PWR0109" (at 327.66 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 302.26 91.44 0)
+    (property "Value" "GND" (at 327.66 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 302.26 95.25 0)
+    (property "Footprint" "" (at 327.66 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 302.26 95.25 0)
+    (property "Datasheet" "" (at 327.66 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 45ba2e84-6d4a-4fc4-af32-079f32d1d872))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0109") (unit 1)
         )
@@ -4196,7 +4200,7 @@
     (pin "1" (uuid bc78124a-4abd-4c46-8901-39854ae37f6f))
     (pin "2" (uuid a15c2480-f610-4e90-91fb-9f6b0c2676f5))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C11") (unit 1)
         )
@@ -4204,19 +4208,19 @@
     )
   )
 
-  (symbol (lib_id "LM2596-mini-Dsun:LM2596-Dsun") (at 264.16 82.55 0) (unit 1)
+  (symbol (lib_id "LM2596-mini-Dsun:LM2596-Dsun") (at 289.56 74.93 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 77e4f243-1784-46f6-8fd1-a033ccc47bd0)
-    (property "Reference" "U8" (at 264.16 82.55 0)
+    (property "Reference" "U8" (at 289.56 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LM2596-Dsun" (at 264.16 80.01 0)
+    (property "Value" "LM2596-Dsun" (at 289.56 72.39 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "LM2596-Dsun:LM2596-Dsun" (at 264.16 86.36 0)
+    (property "Footprint" "LM2596-Dsun:LM2596-Dsun" (at 289.56 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 264.16 82.55 0)
+    (property "Datasheet" "" (at 289.56 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 73366267-5445-4019-b6ff-d18671f9cc1d))
@@ -4228,7 +4232,7 @@
     (pin "4" (uuid 5db420f3-809b-4874-bdd3-788ba46acf29))
     (pin "4" (uuid 5db420f3-809b-4874-bdd3-788ba46acf2a))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "U8") (unit 1)
         )
@@ -4253,7 +4257,7 @@
     )
     (pin "1" (uuid c34ca65d-d525-44de-baec-fc9d576cbf35))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0131") (unit 1)
         )
@@ -4261,24 +4265,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 241.3 243.84 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 264.16 161.29 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7cf3fc0c-358e-4c74-9270-953a787a6057)
-    (property "Reference" "#PWR0119" (at 241.3 250.19 0)
+    (property "Reference" "#PWR0119" (at 264.16 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 238.76 246.38 0)
+    (property "Value" "GND" (at 261.62 163.83 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 241.3 243.84 0)
+    (property "Footprint" "" (at 264.16 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 241.3 243.84 0)
+    (property "Datasheet" "" (at 264.16 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3792ad91-ab7e-4197-9213-62c0c8d0a021))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0119") (unit 1)
         )
@@ -4286,24 +4290,24 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole_Pad") (at 203.2 74.93 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Mechanical:MountingHole_Pad") (at 229.87 71.12 0) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 7f38d04d-622c-43aa-9c3e-77a49ba13fd5)
-    (property "Reference" "H12" (at 205.74 72.3899 0)
+    (property "Reference" "H12" (at 209.55 68.58 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "MountingHole_Pad" (at 205.74 74.9299 0)
+    (property "Value" "MountingHole_Pad" (at 209.55 71.12 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 203.2 74.93 0)
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 229.87 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 203.2 74.93 0)
+    (property "Datasheet" "~" (at 229.87 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4b297617-222d-4a59-9a1e-34c4d76e12a9))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H12") (unit 1)
         )
@@ -4328,7 +4332,7 @@
     )
     (pin "1" (uuid 9b186185-17d6-4f96-874e-6b30b97d759e))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0130") (unit 1)
         )
@@ -4354,7 +4358,7 @@
     (pin "1" (uuid 2824549d-e492-491d-b835-f91e52f470fe))
     (pin "2" (uuid b95c703c-07a2-47a3-8ae2-d5edccc81741))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "JumperRelay1_IN1") (unit 1)
         )
@@ -4379,7 +4383,7 @@
     )
     (pin "1" (uuid 67ca87b2-63f2-4631-a252-1037ea9b4c72))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0147") (unit 1)
         )
@@ -4405,7 +4409,7 @@
     (pin "1" (uuid 75723c81-bd18-4c96-a9f4-46a2bb6f10e8))
     (pin "2" (uuid 28fac8ad-bb41-499f-93d7-ced224efee0a))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J5") (unit 1)
         )
@@ -4413,24 +4417,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 252.73 78.74 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 278.13 71.12 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87df5fc1-7d50-4f29-a878-395aec77cde5)
-    (property "Reference" "#PWR0154" (at 252.73 85.09 0)
+    (property "Reference" "#PWR0154" (at 278.13 77.47 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 250.19 81.28 0)
+    (property "Value" "GND" (at 275.59 73.66 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 252.73 78.74 0)
+    (property "Footprint" "" (at 278.13 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 252.73 78.74 0)
+    (property "Datasheet" "" (at 278.13 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4aa25709-b56c-4523-83a8-c53f8a406a6b))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0154") (unit 1)
         )
@@ -4438,25 +4442,25 @@
     )
   )
 
-  (symbol (lib_id "Device:Fuse") (at 213.36 210.82 90) (unit 1)
+  (symbol (lib_id "Device:Fuse") (at 236.22 132.08 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 88ca9872-140a-4d75-aca1-defb47c3b472)
-    (property "Reference" "F4" (at 214.63 205.74 90)
+    (property "Reference" "F4" (at 237.49 127 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "1,5A" (at 215.9 208.28 90)
+    (property "Value" "1,5A" (at 238.76 129.54 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal" (at 213.36 212.598 90)
+    (property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal" (at 236.22 133.858 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 213.36 210.82 0)
+    (property "Datasheet" "~" (at 236.22 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a1a15568-fb17-4852-9767-026da0dccd3c))
     (pin "2" (uuid 375eade8-6509-4786-8634-81aac5603218))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "F4") (unit 1)
         )
@@ -4464,25 +4468,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 245.11 86.36 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 270.51 78.74 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8c7c78df-5d75-4056-93a6-ad67625093fa)
-    (property "Reference" "C3" (at 242.57 88.9 0)
+    (property "Reference" "C3" (at 267.97 81.28 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100u" (at 245.11 90.17 0)
+    (property "Value" "100u" (at 270.51 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 246.0752 90.17 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 271.4752 82.55 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 245.11 86.36 0)
+    (property "Datasheet" "~" (at 270.51 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4e04ed58-f7f6-4c1f-bfe7-173e5bd324af))
     (pin "2" (uuid 6d5825c3-1548-48ee-b498-a0d3b884e46d))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C3") (unit 1)
         )
@@ -4507,7 +4511,7 @@
     )
     (pin "1" (uuid 1489a091-053e-4a1a-a39c-c45c8b701d81))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0128") (unit 1)
         )
@@ -4533,7 +4537,7 @@
     (pin "1" (uuid 15c280d7-1708-4998-a1ec-a71ab82f63e3))
     (pin "2" (uuid 0927bd2d-4ff0-4088-b3a5-295c86ce1c1a))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "R9") (unit 1)
         )
@@ -4541,25 +4545,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 264.16 190.5 270) (unit 1)
+  (symbol (lib_id "Device:R") (at 287.02 111.76 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 908a9f3e-f40a-4a63-937f-6ac644736139)
-    (property "Reference" "R1" (at 264.16 187.96 90)
+    (property "Reference" "R1" (at 287.02 109.22 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "6.8k" (at 264.16 190.5 90)
+    (property "Value" "6.8k" (at 287.02 111.76 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 264.16 188.722 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 287.02 109.982 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 264.16 190.5 0)
+    (property "Datasheet" "~" (at 287.02 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a3c44a08-33be-4e5b-bdb1-2942e61e937d))
     (pin "2" (uuid 260e840f-f260-4c9a-82d8-2319fa4f697c))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "R1") (unit 1)
         )
@@ -4583,7 +4587,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H1") (unit 1)
         )
@@ -4591,24 +4595,24 @@
     )
   )
 
-  (symbol (lib_id "Mechanical:MountingHole_Pad") (at 201.93 63.5 180) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
+  (symbol (lib_id "Mechanical:MountingHole_Pad") (at 229.87 60.96 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
     (uuid 95c049fb-ccbb-41ae-a348-2c09842ec1f7)
-    (property "Reference" "H11" (at 204.47 63.4999 0)
+    (property "Reference" "H11" (at 209.55 60.96 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "MountingHole_Pad" (at 204.47 66.0399 0)
+    (property "Value" "MountingHole_Pad" (at 209.55 63.5 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 201.93 63.5 0)
+    (property "Footprint" "MountingHole:MountingHole_2.2mm_M2_Pad" (at 229.87 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 201.93 63.5 0)
+    (property "Datasheet" "~" (at 229.87 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8ee93108-edcc-4568-91a5-41ec9cf773ee))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H11") (unit 1)
         )
@@ -4616,25 +4620,25 @@
     )
   )
 
-  (symbol (lib_id "Connector:Conn_01x02_Male") (at 208.28 35.56 0) (unit 1)
+  (symbol (lib_id "Connector:Conn_01x02_Male") (at 234.95 39.37 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 962e0bf8-1f15-4852-9a02-ff9c2d679b10)
-    (property "Reference" "JumperBatt_Lipo1" (at 203.2 43.18 90)
+    (property "Reference" "JumperBatt_Lipo1" (at 229.87 46.99 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x02_Male" (at 205.74 43.18 90)
+    (property "Value" "Conn_01x02_Male" (at 232.41 46.99 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 208.28 35.56 0)
+    (property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" (at 234.95 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 208.28 35.56 0)
+    (property "Datasheet" "~" (at 234.95 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 5c2d53cf-a347-4556-815e-71354e7cd70a))
     (pin "2" (uuid f3c93003-6214-4172-8050-453dcc8d5c05))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "JumperBatt_Lipo1") (unit 1)
         )
@@ -4642,24 +4646,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 252.73 77.47 180) (unit 1)
+  (symbol (lib_id "power:GND") (at 278.13 69.85 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 96e14fb2-9438-477e-a8ab-935c717e946f)
-    (property "Reference" "#PWR0107" (at 252.73 71.12 0)
+    (property "Reference" "#PWR0107" (at 278.13 63.5 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 252.73 73.66 0)
+    (property "Value" "GND" (at 278.13 66.04 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 252.73 77.47 0)
+    (property "Footprint" "" (at 278.13 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 252.73 77.47 0)
+    (property "Datasheet" "" (at 278.13 69.85 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid de4398f6-f63a-4444-8a3c-92e3d16cba23))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0107") (unit 1)
         )
@@ -4684,7 +4688,7 @@
     )
     (pin "1" (uuid 31d97ecd-3c94-43ab-9bb9-b798ee1a7cbd))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0126") (unit 1)
         )
@@ -4710,7 +4714,7 @@
     (pin "1" (uuid e6712739-c387-4610-94e2-9a18bfab34f7))
     (pin "2" (uuid e16b6406-4517-4067-b20c-0b5e3eef3d7e))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C12") (unit 1)
         )
@@ -4718,25 +4722,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 209.55 82.55 270) (unit 1)
+  (symbol (lib_id "Device:R") (at 234.95 74.93 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9d665ce3-6f5e-4b0a-a77f-3df140b77801)
-    (property "Reference" "R7" (at 209.55 80.01 90)
+    (property "Reference" "R7" (at 234.95 72.39 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "500k" (at 209.55 82.55 90)
+    (property "Value" "500k" (at 234.95 74.93 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 209.55 80.772 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 234.95 73.152 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 209.55 82.55 0)
+    (property "Datasheet" "~" (at 234.95 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 937bbfe9-1852-4761-8c89-5dfff1fe1edb))
     (pin "2" (uuid 9c94ef17-9d38-4648-ac54-cf86bd31edab))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "R7") (unit 1)
         )
@@ -4761,7 +4765,7 @@
     )
     (pin "1" (uuid c7d2ab7c-fe1b-4b8a-898a-957c4bcdb6a0))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0133") (unit 1)
         )
@@ -4769,24 +4773,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 208.28 260.35 180) (unit 1)
+  (symbol (lib_id "power:GND") (at 231.14 177.8 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 9e42ee38-d287-4be3-a04d-c1be1c4979f1)
-    (property "Reference" "#PWR0142" (at 208.28 254 0)
+    (property "Reference" "#PWR0142" (at 231.14 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 208.28 255.27 0)
+    (property "Value" "GND" (at 231.14 172.72 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 208.28 260.35 0)
+    (property "Footprint" "" (at 231.14 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 208.28 260.35 0)
+    (property "Datasheet" "" (at 231.14 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3723adf4-37dd-4442-8f69-d108374d8193))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0142") (unit 1)
         )
@@ -4794,19 +4798,19 @@
     )
   )
 
-  (symbol (lib_id "Regulator_Switching:LM2576T-5") (at 264.16 97.79 0) (unit 1)
+  (symbol (lib_id "Regulator_Switching:LM2576T-5") (at 289.56 90.17 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9fb20abb-03be-4826-87a8-508b1e875385)
-    (property "Reference" "U11" (at 264.16 95.25 0)
+    (property "Reference" "U11" (at 289.56 87.63 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LM2576T-5" (at 264.16 97.79 0)
+    (property "Value" "LM2576T-5" (at 289.56 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical" (at 264.16 104.14 0)
+    (property "Footprint" "Package_TO_SOT_THT:TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical" (at 289.56 96.52 0)
       (effects (font (size 1.27 1.27) italic) (justify left) hide)
     )
-    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2576.pdf" (at 264.16 97.79 0)
+    (property "Datasheet" "http://www.ti.com/lit/ds/symlink/lm2576.pdf" (at 289.56 90.17 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 24f96048-677e-4e35-8959-f5c23d833fda))
@@ -4815,7 +4819,7 @@
     (pin "4" (uuid d59c4ffa-9576-4e33-83b2-3d4ec0f4b6ef))
     (pin "5" (uuid 3d0f4d05-42a6-49a7-a15a-9f7dd898b09a))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "U11") (unit 1)
         )
@@ -4853,7 +4857,7 @@
     (pin "14" (uuid bd2f2832-a326-490a-bc4b-b34e4428232b))
     (pin "7" (uuid af6c5cc8-fc72-4aba-89fc-5dd613203b77))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "U4") (unit 6)
         )
@@ -4861,19 +4865,19 @@
     )
   )
 
-  (symbol (lib_name "LM2596-Dsun_2") (lib_id "LM2596-mini-Dsun:LM2596-Dsun") (at 252.73 232.41 0) (unit 1)
+  (symbol (lib_name "LM2596-Dsun_2") (lib_id "LM2596-mini-Dsun:LM2596-Dsun") (at 275.59 149.86 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a686a619-230b-4c1e-a71e-5ded0f2ae57c)
-    (property "Reference" "U12" (at 252.73 232.41 0)
+    (property "Reference" "U12" (at 275.59 149.86 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LM2596-Dsun" (at 252.73 229.87 0)
+    (property "Value" "LM2596-Dsun" (at 275.59 147.32 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "LM2596-Dsun:LM2596-Dsun" (at 254 236.22 0)
+    (property "Footprint" "LM2596-Dsun:LM2596-Dsun" (at 276.86 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 252.73 232.41 0)
+    (property "Datasheet" "" (at 275.59 149.86 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 65bb957f-f16c-46f9-a98f-eac0866e117b))
@@ -4885,7 +4889,7 @@
     (pin "4" (uuid 4fcc61f6-228f-4c4b-8753-8246034df2bb))
     (pin "4" (uuid 4fcc61f6-228f-4c4b-8753-8246034df2bc))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "U12") (unit 1)
         )
@@ -4893,25 +4897,25 @@
     )
   )
 
-  (symbol (lib_id "Device:Fuse") (at 213.36 243.84 90) (unit 1)
+  (symbol (lib_id "Device:Fuse") (at 236.22 161.29 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid acc3e75a-3ebe-4531-8ce4-a0770e5db206)
-    (property "Reference" "F1" (at 213.36 237.49 90)
+    (property "Reference" "F1" (at 236.22 154.94 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1A" (at 213.36 240.03 90)
+    (property "Value" "1A" (at 236.22 157.48 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal" (at 213.36 245.618 90)
+    (property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal" (at 236.22 163.068 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 213.36 243.84 0)
+    (property "Datasheet" "~" (at 236.22 161.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4107b84c-2dea-4be0-83df-0e3d655007cf))
     (pin "2" (uuid 83b4d2e8-dd6c-4e17-a2e7-fd4fca91a720))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "F1") (unit 1)
         )
@@ -4936,7 +4940,7 @@
     )
     (pin "1" (uuid a88d0aaf-f60f-4eaa-bb16-94c1f784a3fc))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0122") (unit 1)
         )
@@ -4944,25 +4948,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 280.67 208.28 0) (unit 1)
+  (symbol (lib_id "Device:R") (at 303.53 129.54 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid af135d79-6f73-4c88-abaf-46ba4f110cdb)
-    (property "Reference" "R2" (at 281.94 207.01 0)
+    (property "Reference" "R2" (at 304.8 128.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "68k" (at 281.94 209.55 0)
+    (property "Value" "68k" (at 304.8 130.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 278.892 208.28 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 301.752 129.54 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 280.67 208.28 0)
+    (property "Datasheet" "~" (at 303.53 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 24c158c2-b607-4a7b-92e3-79093999090f))
     (pin "2" (uuid ef6ebf28-51fa-42b2-ac46-34fefc0209ef))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "R2") (unit 1)
         )
@@ -4987,7 +4991,7 @@
     )
     (pin "1" (uuid 98593f00-506d-4127-aee9-9fc25ee03867))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0148") (unit 1)
         )
@@ -4995,24 +4999,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 288.29 107.95 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 313.69 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b1127842-3a3c-46ab-9c0f-09e6d84ac4b2)
-    (property "Reference" "#PWR0116" (at 288.29 114.3 0)
+    (property "Reference" "#PWR0116" (at 313.69 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 288.29 111.76 0)
+    (property "Value" "GND" (at 313.69 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 288.29 107.95 0)
+    (property "Footprint" "" (at 313.69 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 288.29 107.95 0)
+    (property "Datasheet" "" (at 313.69 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 36f7bfe5-23ed-466b-97dc-bb52d050c63f))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0116") (unit 1)
         )
@@ -5020,24 +5024,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 191.77 210.82 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 214.63 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b155fccc-343b-44c0-872e-3de5c7efba72)
-    (property "Reference" "#PWR0101" (at 191.77 217.17 0)
+    (property "Reference" "#PWR0101" (at 214.63 138.43 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 189.23 213.36 0)
+    (property "Value" "GND" (at 212.09 134.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 191.77 210.82 0)
+    (property "Footprint" "" (at 214.63 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 191.77 210.82 0)
+    (property "Datasheet" "" (at 214.63 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cade81c1-1873-4f94-aefd-369fea6dac8a))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0101") (unit 1)
         )
@@ -5045,25 +5049,25 @@
     )
   )
 
-  (symbol (lib_id "Device:Fuse") (at 213.36 262.89 90) (unit 1)
+  (symbol (lib_id "Device:Fuse") (at 236.22 180.34 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid b2f23cbc-913f-4f48-a543-4f0e6a745080)
-    (property "Reference" "F5" (at 213.36 256.54 90)
+    (property "Reference" "F5" (at 236.22 173.99 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "4A" (at 213.36 259.08 90)
+    (property "Value" "4A" (at 236.22 176.53 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal" (at 213.36 264.668 90)
+    (property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal" (at 236.22 182.118 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 213.36 262.89 0)
+    (property "Datasheet" "~" (at 236.22 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 8153a529-4c99-438c-a0d2-3ea5c48b86ce))
     (pin "2" (uuid d7d32389-85fc-40fb-b824-1d6134dbd2aa))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "F5") (unit 1)
         )
@@ -5089,7 +5093,7 @@
     (pin "1" (uuid ef948371-86e3-41e5-b8a4-e290a2a5f940))
     (pin "2" (uuid c10140e7-6e0b-4c6d-9a4c-c0cfda055d50))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "Sortie_BAU1") (unit 1)
         )
@@ -5097,24 +5101,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 241.3 242.57 180) (unit 1)
+  (symbol (lib_id "power:GND") (at 264.16 160.02 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b549b8ed-c7bb-4eb1-b51f-ea1c6199c004)
-    (property "Reference" "#PWR0152" (at 241.3 236.22 0)
+    (property "Reference" "#PWR0152" (at 264.16 153.67 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 241.3 238.76 0)
+    (property "Value" "GND" (at 264.16 156.21 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 241.3 242.57 0)
+    (property "Footprint" "" (at 264.16 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 241.3 242.57 0)
+    (property "Datasheet" "" (at 264.16 160.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b324fa70-5331-40a1-9802-c3623e095a70))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0152") (unit 1)
         )
@@ -5139,7 +5143,7 @@
     )
     (pin "1" (uuid cf2020f5-04ff-48d8-9f0d-90396bb298b1))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0124") (unit 1)
         )
@@ -5147,24 +5151,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 223.52 218.44 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 246.38 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b8334a44-b3b6-4b87-b23f-d0c9f9ada622)
-    (property "Reference" "#PWR0108" (at 223.52 224.79 0)
+    (property "Reference" "#PWR0108" (at 246.38 146.05 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 223.52 222.25 0)
+    (property "Value" "GND" (at 246.38 143.51 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 223.52 218.44 0)
+    (property "Footprint" "" (at 246.38 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 223.52 218.44 0)
+    (property "Datasheet" "" (at 246.38 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 4ae14d89-1da2-411b-8d48-036770b69637))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0108") (unit 1)
         )
@@ -5172,24 +5176,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 341.63 194.31 180) (unit 1)
+  (symbol (lib_id "power:GND") (at 364.49 115.57 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b9ad97dc-eb9b-4292-8b71-9bb0590d77ff)
-    (property "Reference" "#PWR0110" (at 341.63 187.96 0)
+    (property "Reference" "#PWR0110" (at 364.49 109.22 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 341.63 190.5 0)
+    (property "Value" "GND" (at 364.49 111.76 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 341.63 194.31 0)
+    (property "Footprint" "" (at 364.49 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 341.63 194.31 0)
+    (property "Datasheet" "" (at 364.49 115.57 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 71dd09fe-3c73-4a69-9c77-c83826590e18))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0110") (unit 1)
         )
@@ -5197,25 +5201,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 270.51 29.21 270) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 297.18 33.02 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ba5dcc15-39b6-40a0-a395-a20d37ad2150)
-    (property "Reference" "Conn_Standard-Tamiya2" (at 259.08 22.86 90)
+    (property "Reference" "Conn_Standard-Tamiya2" (at 285.75 26.67 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x02" (at 264.16 25.4 90)
+    (property "Value" "Conn_01x02" (at 290.83 29.21 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 270.51 29.21 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 297.18 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 270.51 29.21 0)
+    (property "Datasheet" "~" (at 297.18 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 84e50e9b-349c-48f8-b6c6-1b38e104d002))
     (pin "2" (uuid a353cbef-747e-4eda-abcf-aec8027f7d76))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "Conn_Standard-Tamiya2") (unit 1)
         )
@@ -5223,25 +5227,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 245.11 99.06 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 270.51 91.44 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bcda3924-ebde-4374-b960-de771cf64497)
-    (property "Reference" "C10" (at 242.57 101.6 0)
+    (property "Reference" "C10" (at 267.97 93.98 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100u" (at 245.11 102.87 0)
+    (property "Value" "100u" (at 270.51 95.25 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 246.0752 102.87 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 271.4752 95.25 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 245.11 99.06 0)
+    (property "Datasheet" "~" (at 270.51 91.44 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 672134bb-a816-4a41-b440-fa0cd5cdada1))
     (pin "2" (uuid f029871e-af34-41d0-a750-2eea16a4f1b3))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C10") (unit 1)
         )
@@ -5266,7 +5270,7 @@
     )
     (pin "1" (uuid e5b75a9e-7912-4d56-a91e-49aa3b9954c1))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0134") (unit 1)
         )
@@ -5274,24 +5278,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 284.48 201.93 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 307.34 123.19 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c50114d0-2c80-4c16-84df-b80ffbb45a4f)
-    (property "Reference" "#PWR0112" (at 284.48 208.28 0)
+    (property "Reference" "#PWR0112" (at 307.34 129.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 287.02 204.47 0)
+    (property "Value" "GND" (at 309.88 125.73 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 284.48 201.93 0)
+    (property "Footprint" "" (at 307.34 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 284.48 201.93 0)
+    (property "Datasheet" "" (at 307.34 123.19 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 430ac2f6-ced4-4083-a77c-653a3c1b81c0))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0112") (unit 1)
         )
@@ -5299,24 +5303,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 215.9 34.29 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 242.57 38.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c625af6d-d09b-49a5-a17b-10609bfd91a3)
-    (property "Reference" "#PWR0137" (at 215.9 40.64 0)
+    (property "Reference" "#PWR0137" (at 242.57 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 215.9 39.37 0)
+    (property "Value" "GND" (at 242.57 43.18 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 215.9 34.29 0)
+    (property "Footprint" "" (at 242.57 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 215.9 34.29 0)
+    (property "Datasheet" "" (at 242.57 38.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid a350e348-59d8-44cc-b124-ea1814fb2efb))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0137") (unit 1)
         )
@@ -5340,7 +5344,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H2") (unit 1)
         )
@@ -5365,7 +5369,7 @@
     )
     (pin "1" (uuid 9dc3cf1a-a6f2-4039-b12c-6612d2b2572a))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0150") (unit 1)
         )
@@ -5391,7 +5395,7 @@
     (pin "1" (uuid 9e7a31d6-a544-4977-9572-e4bf72fbccc5))
     (pin "2" (uuid 7847116f-e104-4a75-b315-c658f1889e7f))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "Entree_2*AAA1") (unit 1)
         )
@@ -5417,7 +5421,7 @@
     (pin "1" (uuid 9fa8c901-31bb-4939-a376-50eb54ca0310))
     (pin "2" (uuid 60fb69b2-076b-4126-85fb-3409bf06150a))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J6") (unit 1)
         )
@@ -5444,7 +5448,7 @@
     (pin "2" (uuid 4312227b-d4c8-4a7d-b091-f75c90df6d28))
     (pin "3" (uuid 871a264d-d142-4e0a-bb3d-3b0a4674ad4b))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "U1") (unit 1)
         )
@@ -5470,7 +5474,7 @@
     (pin "1" (uuid 15dafffa-ccca-41ee-af11-61cc5ee3885a))
     (pin "2" (uuid cf072aef-e756-446c-9576-cfae9b9db395))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "R3") (unit 1)
         )
@@ -5478,25 +5482,25 @@
     )
   )
 
-  (symbol (lib_id "pspice:INDUCTOR") (at 283.21 100.33 0) (unit 1)
+  (symbol (lib_id "pspice:INDUCTOR") (at 308.61 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cf00378a-09fe-412f-b44c-eaec88b9347b)
-    (property "Reference" "L1" (at 283.21 97.79 0)
+    (property "Reference" "L1" (at 308.61 90.17 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "100u" (at 283.21 101.6 0)
+    (property "Value" "100u" (at 308.61 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Inductor_THT:L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2" (at 283.21 100.33 0)
+    (property "Footprint" "Inductor_THT:L_Toroid_Vertical_L16.5mm_W11.4mm_P7.62mm_Pulse_KM-2" (at 308.61 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 283.21 100.33 0)
+    (property "Datasheet" "~" (at 308.61 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2f8edb4a-71c1-4abc-89c0-e77fb1b24ceb))
     (pin "2" (uuid 7021065d-cddb-419b-ab29-1082ce28eefb))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "L1") (unit 1)
         )
@@ -5504,25 +5508,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 283.21 250.19 0) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 306.07 167.64 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d214d3e6-e789-4d8e-ab9b-d77c78101327)
-    (property "Reference" "J1" (at 283.21 241.3 0)
+    (property "Reference" "J1" (at 306.07 158.75 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02" (at 283.21 243.84 0)
+    (property "Value" "Conn_01x02" (at 306.07 161.29 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 283.21 250.19 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 306.07 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 283.21 250.19 0)
+    (property "Datasheet" "~" (at 306.07 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 758c51fa-8e96-4799-9bb9-4ab06626cfd5))
     (pin "2" (uuid 7bb9f789-5967-4416-ae5d-50ca444d480f))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J1") (unit 1)
         )
@@ -5530,25 +5534,25 @@
     )
   )
 
-  (symbol (lib_id "Device:LED") (at 198.12 210.82 0) (unit 1)
+  (symbol (lib_id "Device:LED") (at 220.98 132.08 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d43fae8e-1670-4568-88dc-5a18a722054b)
-    (property "Reference" "D4" (at 196.5325 204.47 0)
+    (property "Reference" "D4" (at 219.3925 125.73 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LED" (at 196.5325 207.01 0)
+    (property "Value" "LED" (at 219.3925 128.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "LED_THT:LED_D5.0mm" (at 198.12 210.82 0)
+    (property "Footprint" "LED_THT:LED_D5.0mm" (at 220.98 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 198.12 210.82 0)
+    (property "Datasheet" "~" (at 220.98 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid c776c661-47dd-4043-82a7-f4feb94d47bd))
     (pin "2" (uuid db1090fb-83c2-4bc1-a9e3-3cadf6a1d449))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "D4") (unit 1)
         )
@@ -5556,25 +5560,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 203.2 260.35 0) (mirror y) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 226.06 177.8 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid d4ab1ff8-b095-4bb4-b40d-dca1a87c6c83)
-    (property "Reference" "Entree_Sortie_BAU1" (at 203.2 254 0)
+    (property "Reference" "Entree_Sortie_BAU1" (at 226.06 171.45 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02" (at 203.2 256.54 0)
+    (property "Value" "Conn_01x02" (at 226.06 173.99 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 203.2 260.35 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 226.06 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 203.2 260.35 0)
+    (property "Datasheet" "~" (at 226.06 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3a6af8c5-c7cf-4932-bf2e-5ed310f6523d))
     (pin "2" (uuid ee93b2a0-a73f-46f2-aaf3-dfb8eaf46af1))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "Entree_Sortie_BAU1") (unit 1)
         )
@@ -5600,7 +5604,7 @@
     (pin "1" (uuid d23d4fea-990a-4ba0-bb4f-cd544025e327))
     (pin "2" (uuid 9565b469-8812-4f55-978d-adeb40c7dcbb))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C2") (unit 1)
         )
@@ -5628,7 +5632,7 @@
     (pin "3" (uuid 3c6be7c0-c6c8-4a0a-910a-6615e85a3099))
     (pin "4" (uuid 0c981387-1b39-467b-be85-0f1887267b23))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "U7") (unit 1)
         )
@@ -5652,7 +5656,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H9") (unit 1)
         )
@@ -5677,7 +5681,7 @@
     )
     (pin "1" (uuid a9c25d38-7a19-4042-8c0b-069d7acf0bfd))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0132") (unit 1)
         )
@@ -5685,24 +5689,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 209.55 86.36 180) (unit 1)
+  (symbol (lib_id "power:GND") (at 234.95 78.74 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid da02795d-dfc0-4220-bc62-1ca275a10daa)
-    (property "Reference" "#PWR0143" (at 209.55 80.01 0)
+    (property "Reference" "#PWR0143" (at 234.95 72.39 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 212.09 85.0899 0)
+    (property "Value" "GND" (at 237.49 77.4699 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (at 209.55 86.36 0)
+    (property "Footprint" "" (at 234.95 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 209.55 86.36 0)
+    (property "Datasheet" "" (at 234.95 78.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid ae7ae79b-3517-4487-af50-3720e4b2ab8e))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0143") (unit 1)
         )
@@ -5710,19 +5714,19 @@
     )
   )
 
-  (symbol (lib_name "LM2596-Dsun_1") (lib_id "LM2596-mini-Dsun:LM2596-Dsun") (at 252.73 247.65 0) (unit 1)
+  (symbol (lib_name "LM2596-Dsun_1") (lib_id "LM2596-mini-Dsun:LM2596-Dsun") (at 275.59 165.1 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid da5ecf0d-a013-43f7-8301-dda7e2a5e4ab)
-    (property "Reference" "U10" (at 252.73 247.65 0)
+    (property "Reference" "U10" (at 275.59 165.1 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "LM2596-Dsun" (at 252.73 245.11 0)
+    (property "Value" "LM2596-Dsun" (at 275.59 162.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "LM2596-Dsun:LM2596-Dsun" (at 254 251.46 0)
+    (property "Footprint" "LM2596-Dsun:LM2596-Dsun" (at 276.86 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 252.73 247.65 0)
+    (property "Datasheet" "" (at 275.59 165.1 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 45a5d6ee-21be-4b54-b70b-d213ffa19006))
@@ -5734,7 +5738,7 @@
     (pin "4" (uuid a79d58fc-50fd-4a9e-9955-747ebdf6b3d4))
     (pin "4" (uuid a79d58fc-50fd-4a9e-9955-747ebdf6b3d5))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "U10") (unit 1)
         )
@@ -5759,7 +5763,7 @@
     )
     (pin "1" (uuid 6a33558a-df7f-4a46-8640-6478453bb000))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0123") (unit 1)
         )
@@ -5767,25 +5771,25 @@
     )
   )
 
-  (symbol (lib_id "Device:Fuse") (at 237.49 95.25 90) (unit 1)
+  (symbol (lib_id "Device:Fuse") (at 262.89 87.63 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dd083d58-25f5-42be-866a-6153a569dda3)
-    (property "Reference" "F3" (at 238.76 90.17 90)
+    (property "Reference" "F3" (at 264.16 82.55 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "2.5A" (at 240.03 92.71 90)
+    (property "Value" "2.5A" (at 265.43 85.09 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal" (at 237.49 97.028 90)
+    (property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal" (at 262.89 89.408 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 237.49 95.25 0)
+    (property "Datasheet" "~" (at 262.89 87.63 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 1f37dc4d-1054-4386-b135-a9fba255911c))
     (pin "2" (uuid 5baf2435-02df-415e-b3f3-59d2be00703b))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "F3") (unit 1)
         )
@@ -5813,7 +5817,7 @@
     (pin "3" (uuid 9c91e9f2-d181-4974-90b5-dfc7da19d4af))
     (pin "5" (uuid f93d6af3-70be-43ab-ba23-fa7d26246177))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "K1") (unit 1)
         )
@@ -5821,24 +5825,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 217.17 270.51 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 240.03 187.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e4af2450-1845-4b66-9f2a-28d7f92346cd)
-    (property "Reference" "#PWR0106" (at 217.17 276.86 0)
+    (property "Reference" "#PWR0106" (at 240.03 194.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 217.17 274.32 0)
+    (property "Value" "GND" (at 240.03 191.77 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 217.17 270.51 0)
+    (property "Footprint" "" (at 240.03 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 217.17 270.51 0)
+    (property "Datasheet" "" (at 240.03 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid caad21b6-193f-4b94-a467-fc94976587b6))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0106") (unit 1)
         )
@@ -5846,25 +5850,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 223.52 214.63 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 246.38 135.89 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e4d00f0d-327f-4089-af91-36212a02a127)
-    (property "Reference" "C1" (at 220.98 217.17 0)
+    (property "Reference" "C1" (at 243.84 138.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "330u" (at 223.52 218.44 0)
+    (property "Value" "330u" (at 246.38 139.7 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" (at 224.4852 218.44 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D8.0mm_P3.50mm" (at 247.3452 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 223.52 214.63 0)
+    (property "Datasheet" "~" (at 246.38 135.89 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 262fa380-91b0-47e4-a7ea-6ca957b17f4a))
     (pin "2" (uuid aab0137d-87df-44ad-9e0c-d3a94b5a69fe))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C1") (unit 1)
         )
@@ -5872,25 +5876,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 209.55 91.44 90) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 234.95 83.82 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid e56738d4-9049-45c5-8e7c-607da9bec099)
-    (property "Reference" "Sortie_Entree_BAU1" (at 214.63 90.1699 90)
+    (property "Reference" "Sortie_Entree_BAU1" (at 240.03 82.5499 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "Conn_01x02" (at 214.63 92.7099 90)
+    (property "Value" "Conn_01x02" (at 240.03 85.0899 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 209.55 91.44 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 234.95 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 209.55 91.44 0)
+    (property "Datasheet" "~" (at 234.95 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 92621698-eab6-4d51-b5d3-376ffbb4a68b))
     (pin "2" (uuid 8e7e4c0c-14a1-46ad-83c5-557a76017dbb))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "Sortie_Entree_BAU1") (unit 1)
         )
@@ -5916,7 +5920,7 @@
     (pin "1" (uuid 609a93cc-b5bb-4f1f-977a-40ae45fc20d1))
     (pin "2" (uuid 0c1ec721-b252-419d-b164-8122d6d2038f))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "R6") (unit 1)
         )
@@ -5940,7 +5944,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H7") (unit 1)
         )
@@ -5965,7 +5969,7 @@
     )
     (pin "1" (uuid 06864552-345f-44a4-a195-bf22d6bfe462))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0127") (unit 1)
         )
@@ -5973,24 +5977,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 251.46 100.33 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 276.86 92.71 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea5a8c47-b79c-4c2b-8f98-4f261291f883)
-    (property "Reference" "#PWR0120" (at 251.46 106.68 0)
+    (property "Reference" "#PWR0120" (at 276.86 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 251.46 104.14 0)
+    (property "Value" "GND" (at 276.86 96.52 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 251.46 100.33 0)
+    (property "Footprint" "" (at 276.86 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 251.46 100.33 0)
+    (property "Datasheet" "" (at 276.86 92.71 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 7595242f-bac7-4c1c-822e-fe6f8358652a))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0120") (unit 1)
         )
@@ -5998,25 +6002,25 @@
     )
   )
 
-  (symbol (lib_id "Device:R") (at 205.74 210.82 270) (unit 1)
+  (symbol (lib_id "Device:R") (at 228.6 132.08 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ea9010c5-43fd-4d94-8096-bfa867f873c9)
-    (property "Reference" "R8" (at 205.74 208.28 90)
+    (property "Reference" "R8" (at 228.6 129.54 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "500k" (at 205.74 210.82 90)
+    (property "Value" "500k" (at 228.6 132.08 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 205.74 209.042 90)
+    (property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal" (at 228.6 130.302 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 205.74 210.82 0)
+    (property "Datasheet" "~" (at 228.6 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 74ba9bc5-0758-4824-843e-cb74c02cadf6))
     (pin "2" (uuid eefea34f-9904-4436-98e9-3077a62792cb))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "R8") (unit 1)
         )
@@ -6024,25 +6028,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 276.86 234.95 0) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 299.72 152.4 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eac85bb6-5d6b-45ef-aa4c-7946f412e04e)
-    (property "Reference" "J10" (at 276.86 226.06 0)
+    (property "Reference" "J10" (at 299.72 143.51 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "Conn_01x02" (at 278.13 228.6 0)
+    (property "Value" "Conn_01x02" (at 300.99 146.05 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 276.86 234.95 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 299.72 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 276.86 234.95 0)
+    (property "Datasheet" "~" (at 299.72 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2d041157-c3d9-44f6-ae0c-db7d582582e3))
     (pin "2" (uuid edfb9972-5884-4abd-8e3e-19d7031d2aec))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J10") (unit 1)
         )
@@ -6066,7 +6070,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "H3") (unit 1)
         )
@@ -6092,7 +6096,7 @@
     (pin "1" (uuid 29081f6f-2915-4a4a-818f-89183f94bfe4))
     (pin "2" (uuid dbfaf306-7667-48a9-a9bf-9b1425a94412))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "R4") (unit 1)
         )
@@ -6117,7 +6121,7 @@
     )
     (pin "1" (uuid cde610c4-1b6f-4586-bc19-2d78bb150b6d))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0140") (unit 1)
         )
@@ -6125,25 +6129,25 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Polarized") (at 232.41 251.46 0) (unit 1)
+  (symbol (lib_id "Device:C_Polarized") (at 255.27 168.91 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f4e312ed-6c84-47af-8ba3-3145d630cd4a)
-    (property "Reference" "C7" (at 229.87 254 0)
+    (property "Reference" "C7" (at 252.73 171.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "100u" (at 232.41 255.27 0)
+    (property "Value" "100u" (at 255.27 172.72 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 233.3752 255.27 0)
+    (property "Footprint" "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm" (at 256.2352 172.72 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 232.41 251.46 0)
+    (property "Datasheet" "~" (at 255.27 168.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 94202470-0dee-4582-afa8-b798dd6ab9f1))
     (pin "2" (uuid c2bf4b85-bf42-4e11-89a8-249ab2364513))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "C7") (unit 1)
         )
@@ -6151,24 +6155,24 @@
     )
   )
 
-  (symbol (lib_id "power:GND") (at 276.86 107.95 0) (unit 1)
+  (symbol (lib_id "power:GND") (at 302.26 100.33 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f9ef79a6-b96c-4aca-a7f5-f6c3aae5f723)
-    (property "Reference" "#PWR0115" (at 276.86 114.3 0)
+    (property "Reference" "#PWR0115" (at 302.26 106.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Value" "GND" (at 276.86 111.76 0)
+    (property "Value" "GND" (at 302.26 104.14 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 276.86 107.95 0)
+    (property "Footprint" "" (at 302.26 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "" (at 276.86 107.95 0)
+    (property "Datasheet" "" (at 302.26 100.33 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 19d7a5cf-19c4-45b7-acfa-f6352c517442))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0115") (unit 1)
         )
@@ -6176,25 +6180,25 @@
     )
   )
 
-  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 241.3 29.21 270) (mirror x) (unit 1)
+  (symbol (lib_id "Connector_Generic:Conn_01x02") (at 267.97 33.02 270) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fa585f30-3a22-4f18-b0ef-b874e5d422cd)
-    (property "Reference" "Conn_Standard-Tamiya1" (at 234.95 22.86 90)
+    (property "Reference" "Conn_Standard-Tamiya1" (at 261.62 26.67 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "Conn_01x02" (at 234.95 25.4 90)
+    (property "Value" "Conn_01x02" (at 261.62 29.21 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 241.3 29.21 0)
+    (property "Footprint" "TerminalBlock_MetzConnect:TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal" (at 267.97 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 241.3 29.21 0)
+    (property "Datasheet" "~" (at 267.97 33.02 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid bd8b4c6f-ac7b-4cd5-9cfa-f4e7c9a15d51))
     (pin "2" (uuid ae34e47e-1817-454e-985b-322905936026))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "Conn_Standard-Tamiya1") (unit 1)
         )
@@ -6220,7 +6224,7 @@
     (pin "1" (uuid 2bec3919-b7ca-4e84-bc93-9e372f3d5dbb))
     (pin "2" (uuid 6322effa-3ef0-4007-9cd3-3e9e5db4f0ef))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "JumperRelay1_CONT1") (unit 1)
         )
@@ -6228,25 +6232,25 @@
     )
   )
 
-  (symbol (lib_id "Device:Fuse") (at 237.49 82.55 90) (unit 1)
+  (symbol (lib_id "Device:Fuse") (at 262.89 74.93 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid fe2531e1-bc5c-404c-8177-62688a0840d4)
-    (property "Reference" "F2" (at 237.49 76.2 90)
+    (property "Reference" "F2" (at 262.89 68.58 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "1A" (at 237.49 78.74 90)
+    (property "Value" "1A" (at 262.89 71.12 90)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal" (at 237.49 84.328 90)
+    (property "Footprint" "Fuse:Fuseholder_Clip-5x20mm_Keystone_3517_Inline_P23.11x6.76mm_D1.70mm_Horizontal" (at 262.89 76.708 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 237.49 82.55 0)
+    (property "Datasheet" "~" (at 262.89 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 3b697a30-bb54-4b3b-a10d-6a7898dfba26))
     (pin "2" (uuid 16c71d03-3993-4c0b-acc6-72492a66033f))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "F2") (unit 1)
         )
@@ -6272,7 +6276,7 @@
     (pin "1" (uuid 356e962b-e59f-4e15-ba84-16c3a5e7a509))
     (pin "2" (uuid e7229d4e-7228-4fa0-bc52-fd57eaddcbe2))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "J4") (unit 1)
         )
@@ -6297,7 +6301,7 @@
     )
     (pin "1" (uuid f06545be-5a61-4339-bf64-1409207d9307))
     (instances
-      (project "BMS"
+      (project "PawerBoard_&_BAU"
         (path "/14b04111-dbde-4362-af88-97eb0f5fd1f5"
           (reference "#PWR0129") (unit 1)
         )
